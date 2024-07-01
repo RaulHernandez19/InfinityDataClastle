@@ -1,0 +1,9 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "accentColor": "#bb9eff",
+  "enabledCssSnippets": [
+    "dashboard"
+  ],
+  "nativeMenus": true
+}

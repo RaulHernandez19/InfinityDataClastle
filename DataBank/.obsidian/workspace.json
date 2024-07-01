@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "7bb4aede3d2f40ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "780018c08a887907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86e6144b5fb19cd4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc240dc24ee7fcf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "31d1d72cfd63eeb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ff0e4f748cd42c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc64572989485caa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Lenguaje",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31462b33bfb4c3b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "a2a51b5258a3c8eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d6a7ff32cdb5ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b407c9461545d67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e7dfb9891c38d7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ebf9a778749c1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "ca9b23de4ab9503d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "cc64572989485caa",
+  "lastOpenFiles": [
+    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/DataFrame.md",
+    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/Creacion.md",
+    "Python/Analisis de datos/Pandas/Pandas.md",
+    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Datos faltantes.md",
+    "Pasted image 20240628134750.png",
+    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/Series.md",
+    "Excalidraw/Drawing 2024-06-26 09.21.25.excalidraw.md",
+    "Sin título.canvas",
+    "Excalidraw",
+    "Python/Analisis de datos/Pandas/Temas/5.Transformacion de datos/Agregar-Crear.md",
+    "Angular/TypeScript/TypeScript.md",
+    "cosa.js.md",
+    "Style Comands.md",
+    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Eliminar.md",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145746.png",
+    "Python/Analisis de datos/Pandas/Temas/4.Filtrado/Filtrado.md",
+    "Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Condiciones.md",
+    "Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145829.png",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145810.png",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625144512.png",
+    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos/Eliminar filas con drop.md",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145133.png",
+    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos/Metodo pop.md",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145104.png",
+    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos/Metodo drop (Filas y columnas).md",
+    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos/Metodo del (Columnas).md",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145006.png",
+    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625144909.png",
+    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar",
+    "Python/Analisis de datos/Pandas/img/Pasted image 20240625144630.png",
+    "Angular/Introduccion-Angular.md",
+    "Angular/Temas/Directivas.md",
+    "GitHub/Introduccion-GitHub.md",
+    "Python/Analisis de datos/Pandas/Temas/2.Analisis preliminar de datos/Descubriendo los datos.md",
+    "Abrir_Pandas.md",
+    "Series_Pandas.md",
+    "Abrir-Pandas.md",
+    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/Exportacion.md",
+    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame",
+    "Python/Analisis de datos/Pandas/Ejercicios",
+    "Python/Analisis de datos/Pandas/Temas/9.Funciones extra",
+    "Python/Analisis de datos/Pandas/Temas/8.Rutinas de busqueda y verifiacion",
+    "Python/Analisis de datos/Pandas/Temas/7.Graficacion de datos",
+    "Python/Analisis de datos/Pandas/Temas/6.Agrupacion de datos",
+    "Python/Analisis de datos/Pandas/Temas/5.Transformacion de datos",
+    "TypeScript/Sin título.canvas",
+    "epico/Sin título.canvas",
+    "Sin título 1.canvas"
+  ]
+}
