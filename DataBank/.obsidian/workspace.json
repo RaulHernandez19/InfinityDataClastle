@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "780018c08a887907",
+        "id": "51f80f29748e1af7",
         "type": "tabs",
         "children": [
           {
-            "id": "86e6144b5fb19cd4",
+            "id": "19bd63d1f958fc6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240702152854.png"
+              }
+            }
+          },
+          {
+            "id": "77a62ac019045385",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Programacion/Python/Analisis de datos/Pandas/img/2e51609ef2fd421db2f15087d3f366de_MD5.jpeg"
+              }
+            }
+          },
+          {
+            "id": "04e201f4ccab2de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/Python/Analisis de datos/Pandas/Temas/7.Graficacion de datos/GraficosAvanzados.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -27,6 +52,7 @@
       {
         "id": "31d1d72cfd63eeb2",
         "type": "tabs",
+        "dimension": 69.25064599483204,
         "children": [
           {
             "id": "c8ff0e4f748cd42c",
@@ -61,12 +87,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "d0f99b964d65328e",
+        "type": "tabs",
+        "dimension": 30.749354005167955,
+        "children": [
+          {
+            "id": "386a6df196f2d9ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 249.5
   },
   "right": {
     "id": "a2a51b5258a3c8eb",
@@ -82,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programacion/Python/Analisis de datos/Pandas/Temas/7.Graficacion de datos/GraficosAvanzados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programacion/Python/Analisis de datos/Pandas/Temas/7.Graficacion de datos/GraficosAvanzados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,77 +161,79 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programacion/Python/Analisis de datos/Pandas/Temas/7.Graficacion de datos/GraficosAvanzados.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "graph:Abrir vista gráfica": false
     }
   },
-  "active": "cc64572989485caa",
+  "active": "04e201f4ccab2de3",
   "lastOpenFiles": [
-    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/DataFrame.md",
-    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/Creacion.md",
-    "Python/Analisis de datos/Pandas/Pandas.md",
-    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Datos faltantes.md",
-    "Pasted image 20240628134750.png",
-    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/Series.md",
-    "Excalidraw/Drawing 2024-06-26 09.21.25.excalidraw.md",
+    "Pasted image 20240702165018.png",
+    "Style Comands.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/7.Graficacion de datos/GraficosAvanzados.md",
+    "Pasted image 20240702163726.png",
+    "Pasted image 20240702163545.png",
+    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/6.Agrupacion de datos/Merge.md",
+    "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240702152854.png",
+    "Programacion/Python/Analisis de datos/Pandas/img/2e51609ef2fd421db2f15087d3f366de_MD5.jpeg",
+    "Programacion/Dagster/Dagster.md",
+    "Programacion/Python/Analisis de datos/Analisis de datos.md",
+    "Programacion/GitHub/GitHub.md",
+    "Programacion/Angular/Angular.md",
+    "Inicio/Inicio.md",
+    "Programacion/Python/Python.md",
+    "Programacion/Dagster",
+    "Pasted image 20240702152859.png",
+    "Pasted image 20240702151254.png",
+    "6921e50d4a1e513d3b0178256181a3cf_MD5.jpeg",
+    "5fdb7d38893feed85e1b2da946e030d2_MD5.jpeg",
+    "Pasted image 20240702151749.png",
+    "Pasted image 20240702151647.png",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/7.Graficacion de datos/Basico_Graficos_Pandas.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Condiciones.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/4.Filtrado/4.Filtrado.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/6.Agrupacion de datos/Dividir dataframe.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/5.Transformacion de datos/Agregar-Crear.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Eliminar.md",
+    "Agregar/Crear.md",
+    "Agregar",
+    "Programacion/Programacion.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/Temas.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/Untitled.md",
+    "Programacion/Angular/Temas/Temas.md",
+    "Programacion/Angular/TypeScript/TypeScript.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Datos faltantes.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/2.Analisis preliminar de datos/Descubriendo los datos.md",
+    "Inicio",
+    "Programacion/Python/Analisis de datos/carpeta",
+    "Programacion/Python/Analisis de datos/Pandass/saaaaa",
+    "Programacion/Python/Analisis de datos/Pandass",
+    "Tags",
+    "Idiomas",
+    "Programacion",
     "Sin título.canvas",
     "Excalidraw",
-    "Python/Analisis de datos/Pandas/Temas/5.Transformacion de datos/Agregar-Crear.md",
-    "Angular/TypeScript/TypeScript.md",
-    "cosa.js.md",
-    "Style Comands.md",
-    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Eliminar.md",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145746.png",
-    "Python/Analisis de datos/Pandas/Temas/4.Filtrado/Filtrado.md",
-    "Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Condiciones.md",
-    "Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145829.png",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145810.png",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625144512.png",
-    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos/Eliminar filas con drop.md",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145133.png",
-    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos/Metodo pop.md",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145104.png",
-    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos/Metodo drop (Filas y columnas).md",
-    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos/Metodo del (Columnas).md",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625145006.png",
-    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Metodos",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625144909.png",
-    "Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar",
-    "Python/Analisis de datos/Pandas/img/Pasted image 20240625144630.png",
-    "Angular/Introduccion-Angular.md",
-    "Angular/Temas/Directivas.md",
-    "GitHub/Introduccion-GitHub.md",
-    "Python/Analisis de datos/Pandas/Temas/2.Analisis preliminar de datos/Descubriendo los datos.md",
-    "Abrir_Pandas.md",
-    "Series_Pandas.md",
-    "Abrir-Pandas.md",
-    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/Exportacion.md",
-    "Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame",
-    "Python/Analisis de datos/Pandas/Ejercicios",
-    "Python/Analisis de datos/Pandas/Temas/9.Funciones extra",
-    "Python/Analisis de datos/Pandas/Temas/8.Rutinas de busqueda y verifiacion",
-    "Python/Analisis de datos/Pandas/Temas/7.Graficacion de datos",
-    "Python/Analisis de datos/Pandas/Temas/6.Agrupacion de datos",
-    "Python/Analisis de datos/Pandas/Temas/5.Transformacion de datos",
     "TypeScript/Sin título.canvas",
     "epico/Sin título.canvas",
     "Sin título 1.canvas"

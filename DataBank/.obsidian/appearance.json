@@ -5,5 +5,7 @@
   "enabledCssSnippets": [
     "dashboard"
   ],
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSizeAction": false,
+  "showViewHeader": true
 }

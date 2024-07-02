@@ -1,4 +1,7 @@
 {
   "livePreview": true,
-  "vimMode": false
+  "vimMode": false,
+  "defaultViewMode": "preview",
+  "showRibbon": true,
+  "showInlineTitle": true
 }
