@@ -1,7 +1,7 @@
 {
   "renderOnMobile": true,
-  "autoLayoutBalanceIterations": 5,
-  "useLivePreviewCache": true,
-  "alignTablesToContentAlignment": false,
+  "autoLayoutBalanceIterations": 11,
+  "useLivePreviewCache": false,
+  "alignTablesToContentAlignment": true,
   "renderInlineElErrors": true
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiTableFill",
-      "FabPython",
-      "RiJavascriptFill",
-      "FabGithub",
-      "🦑"
+      "RaiFallDown",
+      "📚",
+      "RiInstallFill",
+      "LiAppWindow",
+      "TiWorld"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,9 +43,21 @@
   "Programacion/Python/Analisis de datos/Pandas/img": "FasImage",
   "Programacion/Python/Analisis de datos/Pandas/Temas": "LiBookText",
   "Programacion/Python/Analisis de datos/Pandas/Ejercicios": "LiFileJson",
-  "Programacion/Dagster": "🦑",
   "Programacion/GitHub": "FabGithub",
   "Programacion/JavaScript": "RiJavascriptFill",
   "Programacion/Python": "FabPython",
-  "Programacion/Python/Analisis de datos": "RiTableFill"
+  "Programacion/Python/Analisis de datos": "RiTableFill",
+  "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/Time": "RiTimeFill",
+  "Idiomas": "TiWorld",
+  "Programacion/Python/Virtual enviroment.md": "LiAppWindow",
+  "Programacion/Python/Dagster": "🦑",
+  "Programacion/Python/Dagster/Install and running.md": {
+    "iconName": "RiInstallFill",
+    "iconColor": "#44ee66"
+  },
+  "Programacion/Python/Dagster/Topics": "📚",
+  "Programacion/Python/Dagster/Flujo_Dagster.canvas": {
+    "iconName": "RaiFallDown",
+    "iconColor": "#ffffff"
+  }
 }

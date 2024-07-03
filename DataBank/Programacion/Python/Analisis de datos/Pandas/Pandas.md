@@ -10,7 +10,6 @@
 # <font color="#b2a2c7">Analisis preliminar de datos</font>
 
 - 👁️[[Descubriendo los datos]]
-
 # <font color="#c00000">Limpieza de datos</font>
 
 - ❓[[Datos faltantes]]
@@ -24,16 +23,44 @@
 # <font color="#4bacc6">Transformacion de datos</font>
 
 - ➕[[Agregar-Crear]]
-# Agrupacion de datos
+# <font color="#f79646">Agrupacion de datos</font>
 
 - 📐[[Dividir dataframe]]
 
 - 🟤[[Merge]]
 
-# Graficacion de datos
+# <font color="#bfbfbf">Graficacion de datos</font>
 
+- 📉[[Basico_Graficos_Pandas]]
 
+- 📊[[GraficosAvanzados]]
 
-#Pandas #AnalisisDeDatos
+# <font color="#d99694">Rutinas de busqueda y verificacion</font>
+
+- [[8.Rutinas de busqueda y verifiacion#duplicated()]]
+-  [[8.Rutinas de busqueda y verifiacion#drop_duplicates()]]
+-  [[8.Rutinas de busqueda y verifiacion#isin(values)]]
+-  [[8.Rutinas de busqueda y verifiacion#Where]]
+-  [[8.Rutinas de busqueda y verifiacion#mask()]]
+-  [[8.Rutinas de busqueda y verifiacion#query()]]
+-  [[8.Rutinas de busqueda y verifiacion#eval()]]
+-  [[8.Rutinas de busqueda y verifiacion#apply()]]
+-  [[8.Rutinas de busqueda y verifiacion#rank()]]
+-  [[8.Rutinas de busqueda y verifiacion#corr()]]
+-  [[8.Rutinas de busqueda y verifiacion#nunique()]]
+
+# <font color="#c4bd97">Funciones extras</font>
+
+- [[9.Funciones extra#insert()]]
+- [[9.Funciones extra#combine()]]
+- [[9.Funciones extra#agg()]]
+- [[9.Funciones extra#transform()]]
+- ⏰ [[Time]]
+- [[9.Funciones extra#Extras]]
+# Ejercicios
+
+![[Ejercicios#-]]
+
+#Pandas #AnalisisDeDatos #languageComplement
 
 

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"b7d1116c4704de49","type":"file","file":"Programacion/Python/Dagster/Topics/Config/Config.md","x":-900,"y":-250,"width":384,"height":180},
+		{"id":"5d87c973954b4872","x":420,"y":-320,"width":400,"height":400,"type":"file","file":"Programacion/Python/Dagster/Topics/Jobs/Jobs.md"},
+		{"id":"b3d89795eff4d2fc","x":0,"y":-429,"width":322,"height":178,"type":"file","file":"Programacion/Python/Dagster/Topics/Graph/Graph.md"},
+		{"id":"7afe5ccac89a9acd","type":"file","file":"Programacion/Python/Dagster/Topics/Ops/Ops.md","x":-400,"y":-340,"width":300,"height":180},
+		{"id":"64b41dc1e5138187","type":"file","file":"Programacion/Python/Dagster/Topics/Ops/Ops.md","x":-400,"y":-120,"width":300,"height":180}
+	],
+	"edges":[
+		{"id":"ce52be957917d041","fromNode":"b7d1116c4704de49","fromSide":"right","toNode":"7afe5ccac89a9acd","toSide":"left"},
+		{"id":"953260046c2fb8fa","fromNode":"b7d1116c4704de49","fromSide":"right","toNode":"64b41dc1e5138187","toSide":"left"},
+		{"id":"ab097d04fd888b92","fromNode":"7afe5ccac89a9acd","fromSide":"right","toNode":"b3d89795eff4d2fc","toSide":"left"},
+		{"id":"8a8125b234ff8a2b","fromNode":"64b41dc1e5138187","fromSide":"right","toNode":"5d87c973954b4872","toSide":"left"},
+		{"id":"fc1ea6949dc504ff","fromNode":"b3d89795eff4d2fc","fromSide":"right","toNode":"5d87c973954b4872","toSide":"left"}
+	]
+}

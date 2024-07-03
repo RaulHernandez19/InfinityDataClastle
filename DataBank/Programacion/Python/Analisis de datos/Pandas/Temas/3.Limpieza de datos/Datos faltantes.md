@@ -22,3 +22,20 @@ Importante mencionar que lo que hace es generar una columna con dichos datos rem
 ### Rellenar columnas con un valor predeterminado con un diccionario
 
 ![[Pasted image 20240625144630.png]]
+
+# Isnat 
+
+En este caso, se utiliza la función **`np.isnat()`** del módulo NumPy para identificar y eliminar las filas que contienen fechas no válidas en la columna **`'FECHA'`**. La razón principal para usar **`np.isnat()`** en lugar de **`dropna()`** es que **`dropna()`** se utiliza comúnmente para eliminar filas que contienen valores **`NaN`** (valores nulos), mientras que **`np.isnat()`** se utiliza específicamente para identificar valores que no son fechas válidas en objetos datetime.
+
+La función **`dropna()`** eliminaría todas las filas que contienen valores nulos en cualquier columna, lo cual puede no ser lo que queremos si solo estamos interesados en eliminar las filas con fechas no válidas en la columna **`'FECHA'`**.
+
+Por otro lado, **`np.isnat()`** devuelve una máscara booleana que indica si cada valor en la serie de fechas es un valor **`NaT`** (Not a Time) o no. De esta manera, podemos usar esta máscara para filtrar las filas del DataFrame **`emisiones`** que contienen fechas no válidas en la columna **`'FECHA'`**, eliminándolas correctamente.
+
+```python
+#Mostrar por pantalla las estaciones y los contaminantes disponibles en el DataFrame.
+
+# Mostrar las estaciones disponibles
+print('Estaciones:', emisiones.ESTACION.unique())
+# Mostrar los contaminantes disponibles
+print('Contaminantes:', emisiones.MAGNITUD.unique())
+```

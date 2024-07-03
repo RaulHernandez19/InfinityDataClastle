@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - dashboard
-banner: "![[Pasted image 20240625145829.png]]"
+banner: "![[Pasted image 20240703110504.png]]"
+banner_y: 0.708
 ---
 # Programacion
 
@@ -10,3 +11,6 @@ banner: "![[Pasted image 20240625145829.png]]"
 
 # Idioma
 - English
+
+
+
