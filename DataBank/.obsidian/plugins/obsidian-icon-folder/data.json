@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaiFallDown",
-      "📚",
-      "RiInstallFill",
-      "LiAppWindow",
-      "TiWorld"
+      "📕",
+      "FabProductHunt",
+      "OcPersonFill16",
+      "RiSwordLine",
+      "RaiFallDown"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,6 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "Inicio": "🚪",
   "Programacion": "RiCodeBoxFill",
   "Programacion/Angular": "FabAngular",
   "Programacion/Angular/img": "FasImage",
@@ -48,7 +47,6 @@
   "Programacion/Python": "FabPython",
   "Programacion/Python/Analisis de datos": "RiTableFill",
   "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/Time": "RiTimeFill",
-  "Idiomas": "TiWorld",
   "Programacion/Python/Virtual enviroment.md": "LiAppWindow",
   "Programacion/Python/Dagster": "🦑",
   "Programacion/Python/Dagster/Install and running.md": {
@@ -56,8 +54,10 @@
     "iconColor": "#44ee66"
   },
   "Programacion/Python/Dagster/Topics": "📚",
-  "Programacion/Python/Dagster/Flujo_Dagster.canvas": {
-    "iconName": "RaiFallDown",
-    "iconColor": "#ffffff"
-  }
+  "Programacion/Python/Dagster/Dagster_Flow.excalidraw.md": "RiSwordLine",
+  "Idiomas": "TiWorld",
+  "-Inicio": "🚪",
+  "Personal": "OcPersonFill16",
+  "Proyects": "FabProductHunt",
+  "Personal/Personal_Diary": "📕"
 }

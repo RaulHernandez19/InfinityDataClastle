@@ -11,4 +11,4 @@ from dagster import resource, InitResourceContext
         init_context.log.info("Hello, world!")
 ```
 
-Este recurso puede ser utilizado en cualquier operación (op) o activo que requiera un valor aleatorio que sea consistente dentro de una ejecución de job. Espero que esto te ayude a entender los recursos en Dagster. Si tienes más preguntas, no dudes en preguntar.
+Este recurso puede ser utilizado en cualquier operación (op) o activo que requiera un valor aleatorio que sea consistente dentro de una ejecución de job. Espero que esto te ayude a entender los recursos en Dagster.

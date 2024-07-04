@@ -4,36 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "4d720705a8ea508d",
+        "id": "d875abe2dbe05a06",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e966d369a3685b",
+            "id": "c38107758680666a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programacion/Python/Dagster/Dagster.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           },
           {
-            "id": "1d788773f587eb77",
+            "id": "9a5caf62332901ff",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "54bcd2c3e6cacbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Python/Dagster/Dagster.md",
+                "file": "Personal/Sin título.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -45,7 +55,6 @@
       {
         "id": "31d1d72cfd63eeb2",
         "type": "tabs",
-        "dimension": 69.25064599483204,
         "children": [
           {
             "id": "c8ff0e4f748cd42c",
@@ -83,12 +92,11 @@
         ]
       },
       {
-        "id": "d0f99b964d65328e",
+        "id": "e5eced8b2b4a2fd9",
         "type": "tabs",
-        "dimension": 30.749354005167955,
         "children": [
           {
-            "id": "386a6df196f2d9ee",
+            "id": "0fdb1b6bc691c5d6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,15 +107,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 248
   },
   "right": {
     "id": "a2a51b5258a3c8eb",
     "type": "split",
     "children": [
       {
+        "id": "0f7e489cf0c6f05b",
+        "type": "tabs",
+        "dimension": 43.75,
+        "children": [
+          {
+            "id": "6e1eb9a687d4a197",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "323ccc6344b9ec06",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "70d6a7ff32cdb5ca",
         "type": "tabs",
+        "dimension": 56.25,
         "children": [
           {
             "id": "4b407c9461545d67",
@@ -115,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Python/Dagster/Dagster.md",
+                "file": "Personal/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Python/Dagster/Dagster.md",
+                "file": "Personal/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Python/Dagster/Dagster.md"
+                "file": "Personal/Sin título.md"
               }
             }
           }
@@ -164,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 262
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,58 +207,61 @@
       "command-palette:Abrir paleta de comandos": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "graph:Abrir vista gráfica": false
+      "graph:Abrir vista gráfica": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f4e966d369a3685b",
+  "active": "54bcd2c3e6cacbc6",
   "lastOpenFiles": [
+    "Personal/Personal_Diary/2024-07-05.md",
+    "Personal/Personal_Diary/2024-07-04.md",
+    "Personal/Personal_Diary/(Every F,R,W,T,M) work.md",
+    "Personal/Personal_Diary/(Every F,R,W,T,M) Work.md",
+    "Excalidraw/Drawing 2024-07-04 14.22.54.excalidraw.md",
+    "Untitled Kanban.md",
+    "Excalidraw",
+    "Personal/Sin título.md",
+    "Programacion/Angular/TypeScript/Apartados/Basico.md",
+    "-Inicio/-Inicio.md",
+    "Personal/Personal_Diary/2024-07-06.md.md",
+    "Sin título.md",
+    "Personal/Personal_Diary",
+    "Proyects",
+    "Personal",
+    "Programacion/Programacion.md",
+    "Programacion/Angular/Angular.md",
+    "Programacion/Python/Dagster/Dagster.md",
+    "Programacion/Python/Dagster/Topics/Graph/Graph.md",
+    "Programacion/Python/Dagster/Dagster_Flow.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-04 09.05.32.excalidraw.md",
+    "Programacion/Python/Dagster/Install and running.md",
+    "Programacion/Python/Dagster/Topics/Jobs/Jobs.md",
+    "Programacion/Python/Dagster/Topics/Resources/Resources.md",
+    "Prueba/Prueba.md",
+    "Prueba",
     "Programacion/Python/Dagster/Topics/Ops/Ops.md",
     "Programacion/Python/Dagster/Topics/Ops/Out.md",
-    "Programacion/Python/Dagster/Dagster.md",
-    "Programacion/Python/Dagster/Topics/Schedules/Schedules.md",
     "Programacion/Python/Dagster/Flujo_Dagster.canvas",
-    "Programacion/Python/Dagster/Topics/Config/Config.md",
-    "Programacion/Python/Dagster/Topics/Graph/Graph.md",
+    "Programacion/Python/Analisis de datos/Analisis de datos.md",
+    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
+    "Programacion/Python/Dagster/Topics/Schedules/Schedules.md",
     "Programacion/Python/Dagster/Topics",
-    "Programacion/Python/Virtual enviroment.md",
-    "Programacion/Python/Dagster/Topics/Resources/Resources.md",
-    "Programacion/Python/Dagster/Topics/Jobs/Jobs.md",
     "Programacion/Python/Dagster/Topics/Config",
     "Programacion/Python/Dagster/Topics/Graph",
     "Programacion/Python/Dagster/Topics/Resources",
     "Programacion/Python/Dagster/Topics/Schedules",
-    "Style Comands.md",
-    "Programacion/Python/Dagster/Topics/Ops",
-    "Programacion/Python/Dagster/Topics/Jobs",
-    "Programacion/Python/Dagster/Install and running.md",
-    "Programacion/Programacion.md",
-    "Programacion/Python/Python.md",
-    "Programacion/Python/Analisis de datos/Numpy/Numpy.md",
-    "Programacion/GitHub/GitHub.md",
-    "Programacion/Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/DataFrame.md",
-    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
-    "Programacion/Python/Analisis de datos/Analisis de datos.md",
-    "Programacion/Python/Analisis de datos/Pandas/Temas/6.Agrupacion de datos/Merge.md",
-    "Programacion/Python/Virtual enviroment/Virtual enviroment.md",
-    "Programacion/Python/Virtual enviroment",
-    "Programacion/GitHub/Introduccion-GitHub.md",
-    "Inicio/Inicio.md",
     "Programacion/Angular/img/Pasted image 20240703110504.png",
-    "Programacion/Angular/TypeScript/Apartados/Apartados.md",
     "Programacion/Python/Analisis de datos/Pandas/img/Untitled (26).png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703100414.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105153.png",
-    "Programacion/Python/Analisis de datos/Pandas/Ejercicios/Pivot excercise.md",
-    "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/9.Funciones extra.md",
     "Programacion/Python/Analisis de datos/Pandas/img/Untitled (40).png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105142.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105108.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105030.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Untitled (39).png",
-    "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/Funciones extra.md",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703104441.png",
-    "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/Funciones necesarias pa",
-    "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/Rutinas de busqueda y verificacion",
     "Sin título.canvas",
     "TypeScript/Sin título.canvas",
     "epico/Sin título.canvas",

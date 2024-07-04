@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -18,21 +18,21 @@
       "query": "tag:#Lenguaje  ",
       "color": {
         "a": 1,
-        "rgb": 14040565
+        "rgb": 12257247
       }
     },
     {
       "query": "tag:#languageComplement  ",
       "color": {
         "a": 1,
-        "rgb": 16752357
+        "rgb": 5394398
       }
     },
     {
       "query": "tag:#programationTopic  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 8781701
       }
     },
     {
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "file:.excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 2855288
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 0.795218295218295,
   "linkDistance": 250,
-  "scale": 0.16943702713365566,
+  "scale": 0.23754781429141938,
   "close": true
 }
