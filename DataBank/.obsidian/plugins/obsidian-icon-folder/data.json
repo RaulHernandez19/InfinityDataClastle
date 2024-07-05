@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📕",
-      "FabProductHunt",
-      "OcPersonFill16",
-      "RiSwordLine",
-      "RaiFallDown"
+      "RaMuscleUp",
+      "LiCat",
+      "LiNewspaper",
+      "OcPersonFill24",
+      "FasMasksTheater"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -59,5 +59,19 @@
   "-Inicio": "🚪",
   "Personal": "OcPersonFill16",
   "Proyects": "FabProductHunt",
-  "Personal/Personal_Diary": "📕"
+  "Personal/Personal_Diary": "📕",
+  "Proyects/YouTube": "FabYoutube",
+  "Proyects/History's": "RiBookOpenFill",
+  "Proyects/History's/El Gato Rodrigo": "RaCat",
+  "Proyects/History's/La Sociedad de la Mascara": "FasMasksTheater",
+  "Proyects/History's/El Gato Rodrigo/Characters": "OcPersonFill24",
+  "Proyects/History's/El Gato Rodrigo/Chapters": "LiNewspaper",
+  "Proyects/History's/El Gato Rodrigo/Characters/Gato Rodrigo (A).md": {
+    "iconName": "LiCat",
+    "iconColor": "#d04343"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Fortachon (A).md": {
+    "iconName": "RaMuscleUp",
+    "iconColor": "#ba4f54"
+  }
 }
