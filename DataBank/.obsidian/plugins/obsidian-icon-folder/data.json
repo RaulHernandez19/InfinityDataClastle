@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaMuscleUp",
-      "LiCat",
-      "LiNewspaper",
-      "OcPersonFill24",
-      "FasMasksTheater"
+      "RaSoccerBall",
+      "FasRuler",
+      "TiGymnastics",
+      "FasWandMagicSparkles",
+      "LiCamera"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,93 @@
   "Proyects/History's/El Gato Rodrigo/Characters/Fortachon (A).md": {
     "iconName": "RaMuscleUp",
     "iconColor": "#ba4f54"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Programadora de videojuegos.md": {
+    "iconName": "TiCode",
+    "iconColor": "#ff00dd"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Maria Artista (P).md": {
+    "iconName": "FasPencil",
+    "iconColor": "#d016bd"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Idol.md": {
+    "iconName": "RaMicrophone",
+    "iconColor": "#d822cf"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Susy Influencer (S).md": {
+    "iconName": "IbIphone",
+    "iconColor": "#df34c8"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Boxeadora.md": {
+    "iconName": "RiBoxingFill",
+    "iconColor": "#ce1cc9"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Cientifica.md": {
+    "iconName": "LiGlasses",
+    "iconColor": "#a421a6"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Empresario(Extra).md": {
+    "iconName": "TiFolder",
+    "iconColor": "#7e5bfb"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Doble de Riesgo.md": {
+    "iconName": "TiHelmet",
+    "iconColor": "#7357db"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Comediante.md": {
+    "iconName": "FasFaceLaughWink",
+    "iconColor": "#694eca"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Alan Actor (P).md": {
+    "iconName": "FasMasksTheater",
+    "iconColor": "#5a4bce"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Gustavo Chef(S).md": {
+    "iconName": "LiChefHat",
+    "iconColor": "#6e50d7"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Abogado.md": {
+    "iconName": "RaLargeHammer",
+    "iconColor": "#5b44b2"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Hermano Chef.md": {
+    "iconName": "TiChefHat",
+    "iconColor": "#694eca"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Esgrimista.md": {
+    "iconName": "RaBroadsword",
+    "iconColor": "#7357db"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Cazador de fantasmas.md": {
+    "iconName": "FasGhost",
+    "iconColor": "#6c50d3"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Cirugana.md": {
+    "iconName": "FasUserInjured",
+    "iconColor": "#c021bb"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Medico.md": {
+    "iconName": "FasUserDoctor",
+    "iconColor": "#7055d3"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Periodista.md": {
+    "iconName": "LiCamera",
+    "iconColor": "#c421bf"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Maga.md": {
+    "iconName": "FasWandMagicSparkles",
+    "iconColor": "#d22dbc"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Atleta.md": {
+    "iconName": "TiGymnastics",
+    "iconColor": "#cb27ce"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Maestra.md": {
+    "iconName": "FasRuler",
+    "iconColor": "#d63dc9"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Futbolista.md": {
+    "iconName": "RaSoccerBall",
+    "iconColor": "#664cc8"
   }
 }

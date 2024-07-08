@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73399a44ac228a86",
+            "id": "ed9cb5ccc5d18248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
+                "file": "Proyects/History's/El Gato Rodrigo/Characters/Programadora de videojuegos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "9b9e8df7616b9dea",
+            "id": "f02cd23e640257f2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -31,15 +31,15 @@
             }
           },
           {
-            "id": "df6ccefbf58dbe40",
+            "id": "c6571d4719c2b475",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248
+    "width": 275
   },
   "right": {
     "id": "a2a51b5258a3c8eb",
@@ -129,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -195,42 +191,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9b9e8df7616b9dea",
+  "active": "c6571d4719c2b475",
   "lastOpenFiles": [
-    "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
+    "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/Chapters.md",
-    "Proyects/History's/El Gato Rodrigo/El Gato Rodrigo.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Gustavo Chef(S).md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Alan Actor (P).md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Programadora de videojuegos.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Characters.md",
-    "Proyects/Proyects.md",
-    "-Inicio/-Inicio.md",
-    "Programacion/Angular/TypeScript/Apartados/Apartados.md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Alan (P).md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Comediante.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Cirugana.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Cientifica.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Cazador de fantasmas.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Boxeadora.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Atleta.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Abogado.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Susy Influencer (S).md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Periodista.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Medico.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Maria Artista (P).md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Maga.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Maestra.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Idol.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Hermano Chef.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Futbolista.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Esgrimista.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Empresario(Extra).md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Doble de Riesgo.md",
     "Excalidraw",
-    "Proyects/History's/El Gato Rodrigo/Characters/Susy (S).md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar",
-    "Proyects/History's/El Gato Rodrigo/Characters/Pelon(Extra).md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Maria (P).md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Gustavo(S).md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Gato Rodrigo (A).md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Fortachon (A).md",
-    "Programacion/Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Datos faltantes.md",
-    "Proyects/History's/History's.md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Gato Rodrigo.md",
     "Proyects/History's/El Gato Rodrigo/Chapters",
     "Proyects/History's/El Gato Rodrigo/Characters",
-    "Proyects/History's/La Sociedad de la Mascara/La Sociedad de la Mascara.md",
     "Proyects/History's/La Sociedad de la Mascara",
     "Proyects/History's/El Gato Rodrigo",
-    "Proyects/YouTube/YouTube.md",
     "Proyects/History's",
     "Proyects/YouTube",
-    "Proyects/Youtube.md",
-    "Excalidraw/Drawing 2024-07-05 14.59.37.excalidraw.md",
-    "Programacion/Angular/TypeScript/TypeScript.md",
-    "Personal/Sin título.md",
-    "Untitled Kanban.md",
-    "Personal/Personal_Diary/2024-07-05.md",
     "Personal/Personal_Diary",
     "Proyects",
     "Programacion/Python/Dagster/Flujo_Dagster.canvas",

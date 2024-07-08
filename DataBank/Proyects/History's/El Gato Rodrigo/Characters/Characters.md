@@ -1,17 +1,38 @@
-# Protagonist
+## Protagonist
 
-- [[Alan (P)]]
-- [[Susy (S)]]
+- [[Alan Actor (P)]]
+- [[Maria Artista (P)]]
 
-# Secondarys
+## Secondarys
 
-- [[Maria (P)]]
-- [[Gustavo(S)]]
+- [[Susy Influencer (S)]]
+- [[Gustavo Chef(S)]]
+- [[Boxeadora]]
+- [[Abogado]]
+- [[Cientifica]]
+- [[Cirugana]]
+- [[Comediante]]
+- [[Doble de Riesgo]]
+- [[Futbolista]]
+- [[Hermano Chef]]
+- [[Idol]]
+- [[Maestra]]
+- [[Maga]]
+- [[Medico]]
+- [[Programadora de videojuegos]]
+- [[Periodista]]
 
-# Extras
+## Terciarios
 
-- [[Pelon(Extra)]]
-# Antagonist
+-  [[Cazador de fantasmas]]
+- [[Atleta]]
+- [[Esgrimista]]
+
+## Extras
+
+- [[Empresario(Extra)]]
+
+## Antagonist
 
 - [[Gato Rodrigo (A)]]
 - [[Fortachon (A)]]
