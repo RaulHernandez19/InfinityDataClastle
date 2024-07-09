@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"c5c69acba7934f08","type":"group","x":-300,"y":-280,"width":400,"height":320,"label":"Did"},
+		{"id":"12969595e693d129","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Maestra.md","x":-980,"y":-743,"width":200,"height":84},
+		{"id":"c808cd9d0ea3d655","type":"text","text":"Les dio clases","x":-760,"y":-726,"width":148,"height":50,"color":"4"},
+		{"id":"5e1dba17f9fb2e6b","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Alan Actor (P).md","x":-580,"y":-800,"width":277,"height":50},
+		{"id":"f695e66b6096520f","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Boxeadora.md","x":-220,"y":-974,"width":217,"height":76},
+		{"id":"496b6d5be0c45be6","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Idol.md","x":193,"y":-739,"width":177,"height":76},
+		{"id":"4be468533dbf1279","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Susy Influencer (S).md","x":133,"y":-974,"width":297,"height":76},
+		{"id":"c528039acb8585bd","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Empresario(Extra).md","x":-759,"y":-108,"width":360,"height":67},
+		{"id":"6e30be8d02a0723c","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Maria Artista (P).md","x":-580,"y":-620,"width":277,"height":78},
+		{"id":"aaa16dfa69cc2d3d","type":"text","text":"1","x":-471,"y":-99,"width":60,"height":50,"color":"1"},
+		{"id":"53aa760b80a39a03","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Abogado.md","x":-271,"y":-232,"width":337,"height":78},
+		{"id":"9b1d91ba9c49dabc","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Maga.md","x":-271,"y":-100,"width":337,"height":78},
+		{"id":"58b10e4ec7ea8a40","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Cazador de fantasmas.md","x":180,"y":-94,"width":342,"height":74},
+		{"id":"5573eee8340d871f","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Cientifica.md","x":180,"y":-230,"width":316,"height":78},
+		{"id":"0c9c110c0399442e","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Gustavo Chef(S).md","x":-863,"y":-476,"width":291,"height":76},
+		{"id":"98afaf7c2ccf1193","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Hermano Chef.md","x":-856,"y":-286,"width":277,"height":75},
+		{"id":"bdeb6cfb50887583","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Programadora de videojuegos.md","x":-220,"y":-638,"width":291,"height":114},
+		{"id":"3bc9dc28b67115d2","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Doble de Riesgo.md","x":-580,"y":-936,"width":271,"height":60}
+	],
+	"edges":[
+		{"id":"9bb50c46d1ed49a8","fromNode":"5e1dba17f9fb2e6b","fromSide":"bottom","toNode":"6e30be8d02a0723c","toSide":"top","toEnd":"none","color":"4","label":"best friends"},
+		{"id":"f37d097e5a37eb3d","fromNode":"f695e66b6096520f","fromSide":"right","toNode":"4be468533dbf1279","toSide":"left","toEnd":"none"},
+		{"id":"87240b8f3a068124","fromNode":"4be468533dbf1279","fromSide":"bottom","toNode":"496b6d5be0c45be6","toSide":"top","toEnd":"none"},
+		{"id":"df974a452c665cdb","fromNode":"98afaf7c2ccf1193","fromSide":"top","toNode":"0c9c110c0399442e","toSide":"bottom","toEnd":"none","color":"4","label":"hermanos"},
+		{"id":"75a532dd550e4a13","fromNode":"12969595e693d129","fromSide":"right","toNode":"5e1dba17f9fb2e6b","toSide":"left","color":"4"},
+		{"id":"3682f67425f51f26","fromNode":"12969595e693d129","fromSide":"right","toNode":"6e30be8d02a0723c","toSide":"left","color":"4"},
+		{"id":"08bd45022e832d40","fromNode":"53aa760b80a39a03","fromSide":"right","toNode":"5573eee8340d871f","toSide":"left","toEnd":"none"},
+		{"id":"718c0f38ed05dc6f","fromNode":"9b1d91ba9c49dabc","fromSide":"right","toNode":"58b10e4ec7ea8a40","toSide":"left","toEnd":"none"},
+		{"id":"07f7c44300633047","fromNode":"6e30be8d02a0723c","fromSide":"right","toNode":"bdeb6cfb50887583","toSide":"left","toEnd":"none"}
+	]
+}

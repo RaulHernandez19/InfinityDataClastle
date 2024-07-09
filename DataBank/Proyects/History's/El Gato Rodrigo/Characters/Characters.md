@@ -13,7 +13,7 @@
 - [[Cirugana]]
 - [[Comediante]]
 - [[Doble de Riesgo]]
-- [[Futbolista]]
+- [[Bailarina exotica]]
 - [[Hermano Chef]]
 - [[Idol]]
 - [[Maestra]]
@@ -25,7 +25,7 @@
 ## Terciarios
 
 -  [[Cazador de fantasmas]]
-- [[Atleta]]
+- [[Director de cine]]
 - [[Esgrimista]]
 
 ## Extras

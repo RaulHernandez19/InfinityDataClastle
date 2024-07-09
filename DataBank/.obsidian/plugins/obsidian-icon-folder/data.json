@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiMovie2Fill",
+      "TiWoman",
+      "FasMasksTheater",
       "RaSoccerBall",
-      "FasRuler",
-      "TiGymnastics",
-      "FasWandMagicSparkles",
-      "LiCamera"
+      "FasRuler"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -110,10 +110,6 @@
     "iconName": "FasFaceLaughWink",
     "iconColor": "#694eca"
   },
-  "Proyects/History's/El Gato Rodrigo/Characters/Alan Actor (P).md": {
-    "iconName": "FasMasksTheater",
-    "iconColor": "#5a4bce"
-  },
   "Proyects/History's/El Gato Rodrigo/Characters/Gustavo Chef(S).md": {
     "iconName": "LiChefHat",
     "iconColor": "#6e50d7"
@@ -150,16 +146,20 @@
     "iconName": "FasWandMagicSparkles",
     "iconColor": "#d22dbc"
   },
-  "Proyects/History's/El Gato Rodrigo/Characters/Atleta.md": {
-    "iconName": "TiGymnastics",
-    "iconColor": "#cb27ce"
-  },
   "Proyects/History's/El Gato Rodrigo/Characters/Maestra.md": {
     "iconName": "FasRuler",
     "iconColor": "#d63dc9"
   },
-  "Proyects/History's/El Gato Rodrigo/Characters/Futbolista.md": {
-    "iconName": "RaSoccerBall",
-    "iconColor": "#664cc8"
+  "Proyects/History's/El Gato Rodrigo/Characters/Alan Actor (P).md": {
+    "iconName": "FasMasksTheater",
+    "iconColor": "#6f51db"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Bailarina exotica.md": {
+    "iconName": "TiWoman",
+    "iconColor": "#c226c5"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/Director de cine.md": {
+    "iconName": "RiMovie2Fill",
+    "iconColor": "#6c54c4"
   }
 }
