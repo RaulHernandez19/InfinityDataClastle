@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBrain",
       "RiMovie2Fill",
       "TiWoman",
       "FasMasksTheater",
-      "RaSoccerBall",
-      "FasRuler"
+      "RaSoccerBall"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -102,10 +102,6 @@
     "iconName": "TiFolder",
     "iconColor": "#7e5bfb"
   },
-  "Proyects/History's/El Gato Rodrigo/Characters/Doble de Riesgo.md": {
-    "iconName": "TiHelmet",
-    "iconColor": "#7357db"
-  },
   "Proyects/History's/El Gato Rodrigo/Characters/Comediante.md": {
     "iconName": "FasFaceLaughWink",
     "iconColor": "#694eca"
@@ -158,8 +154,12 @@
     "iconName": "TiWoman",
     "iconColor": "#c226c5"
   },
-  "Proyects/History's/El Gato Rodrigo/Characters/Director de cine.md": {
+  "Proyects/History's/El Gato Rodrigo/Characters/Psicologo.md": {
+    "iconName": "FasBrain",
+    "iconColor": "#644fba"
+  },
+  "Proyects/History's/El Gato Rodrigo/Characters/DirectorCine.md": {
     "iconName": "RiMovie2Fill",
-    "iconColor": "#6c54c4"
+    "iconColor": "#6d51d2"
   }
 }

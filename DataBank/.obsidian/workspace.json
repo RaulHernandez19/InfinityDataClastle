@@ -11,14 +11,12 @@
             "id": "b616d06502210c09",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
-                "viewState": {
-                  "x": -229,
-                  "y": -470,
-                  "zoom": -0.8399857836184326
-                }
+                "file": "Proyects/History's/El Gato Rodrigo/Characters/Characters.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -34,8 +32,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c83cd643076e33ed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
+                "viewState": {
+                  "x": 50.1881023442096,
+                  "y": -506.81804959645626,
+                  "zoom": -1.3333333333333333
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,28 +205,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b616d06502210c09",
+  "active": "c83cd643076e33ed",
   "lastOpenFiles": [
     "Proyects/History's/El Gato Rodrigo/Characters/Characters.md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Gustavo Chef(S).md",
     "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
+    "Proyects/History's/El Gato Rodrigo/Characters/Comediante.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Gustavo Chef(S).md",
+    "Proyects/History's/El Gato Rodrigo/Characters/1.characterRelations.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Maestra.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Maga.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Abogado.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Bailarina exotica.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Alan Actor (P).md",
-    "Proyects/History's/El Gato Rodrigo/Characters/1.characterRelations.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
     "Excalidraw",
     "Proyects/History's/El Gato Rodrigo/Characters/Programadora de videojuegos.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Cazador de fantasmas.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/Chapters.md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Comediante.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Cirugana.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Cientifica.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Boxeadora.md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Director de cine.md",
+    "Proyects/History's/El Gato Rodrigo/Characters/Psicologo.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Susy Influencer (S).md",
     "Proyects/History's/El Gato Rodrigo/Characters/Periodista.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Medico.md",

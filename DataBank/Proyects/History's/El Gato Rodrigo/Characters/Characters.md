@@ -12,7 +12,7 @@
 - [[Cientifica]]
 - [[Cirugana]]
 - [[Comediante]]
-- [[Doble de Riesgo]]
+- [[DirectorCine]]
 - [[Bailarina exotica]]
 - [[Hermano Chef]]
 - [[Idol]]
@@ -25,7 +25,7 @@
 ## Terciarios
 
 -  [[Cazador de fantasmas]]
-- [[Director de cine]]
+- [[Psicologo]]
 - [[Esgrimista]]
 
 ## Extras
