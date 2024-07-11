@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiError404Off",
+      "LiWifi",
       "FasBrain",
       "RiMovie2Fill",
-      "TiWoman",
-      "FasMasksTheater",
-      "RaSoccerBall"
+      "TiWoman"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,7 +60,6 @@
   "Personal": "OcPersonFill16",
   "Proyects": "FabProductHunt",
   "Personal/Personal_Diary": "📕",
-  "Proyects/YouTube": "FabYoutube",
   "Proyects/History's": "RiBookOpenFill",
   "Proyects/History's/El Gato Rodrigo": "RaCat",
   "Proyects/History's/La Sociedad de la Mascara": "FasMasksTheater",
@@ -161,5 +160,7 @@
   "Proyects/History's/El Gato Rodrigo/Characters/DirectorCine.md": {
     "iconName": "RiMovie2Fill",
     "iconColor": "#6d51d2"
-  }
+  },
+  "Proyects/Redes Sociales": "LiWifi",
+  "Proyects/History's/La Sociedad de la Mascara/Errums": "TiError404Off"
 }

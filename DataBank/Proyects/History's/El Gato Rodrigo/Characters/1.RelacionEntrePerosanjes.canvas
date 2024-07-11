@@ -21,13 +21,13 @@
 		{"id":"926e061452cad8d8","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Bailarina exotica.md","x":-709,"y":-414,"width":325,"height":81},
 		{"id":"b516e55679d79f1c","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Comediante.md","x":-709,"y":-267,"width":325,"height":50},
 		{"id":"bdeb6cfb50887583","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Programadora de videojuegos.md","x":-239,"y":-471,"width":291,"height":114},
-		{"id":"3bc9dc28b67115d2","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/DirectorCine.md","x":-679,"y":-1030,"width":271,"height":60},
 		{"id":"98afaf7c2ccf1193","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Hermano Chef.md","x":78,"y":-856,"width":277,"height":75},
 		{"id":"0c9c110c0399442e","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Gustavo Chef(S).md","x":71,"y":-1046,"width":291,"height":76},
 		{"id":"9b6938c4d92e9bce","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Psicologo.md","x":768,"y":-555,"width":277,"height":66},
 		{"id":"b53007610d2bd6d7","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Periodista.md","x":1120,"y":-553,"width":277,"height":64},
-		{"id":"93443cba3459a306","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Esgrimista.md","x":-180,"y":-180,"width":271,"height":78},
-		{"id":"25a2319e1b44e597","type":"text","text":"3","x":1000,"y":-70,"width":60,"height":50,"color":"1"}
+		{"id":"25a2319e1b44e597","type":"text","text":"3","x":1000,"y":-70,"width":60,"height":50,"color":"1"},
+		{"id":"93443cba3459a306","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/Esgrimista.md","x":-320,"y":-1069,"width":271,"height":78},
+		{"id":"3bc9dc28b67115d2","type":"file","file":"Proyects/History's/El Gato Rodrigo/Characters/DirectorCine.md","x":-709,"y":-1051,"width":271,"height":60}
 	],
 	"edges":[
 		{"id":"9bb50c46d1ed49a8","fromNode":"5e1dba17f9fb2e6b","fromSide":"bottom","toNode":"6e30be8d02a0723c","toSide":"top","toEnd":"none","color":"4","label":"best friends"},
@@ -61,6 +61,8 @@
 		{"id":"d95ea77ecb548a26","fromNode":"b516e55679d79f1c","fromSide":"right","toNode":"6e30be8d02a0723c","toSide":"right","toEnd":"none","color":"3"},
 		{"id":"47dab2beff469e51","fromNode":"b516e55679d79f1c","fromSide":"bottom","toNode":"9b1d91ba9c49dabc","toSide":"left","toEnd":"none","color":"3"},
 		{"id":"538eb3116c97ea88","fromNode":"5e1dba17f9fb2e6b","fromSide":"top","toNode":"3bc9dc28b67115d2","toSide":"bottom","toEnd":"none","color":"1"},
-		{"id":"b72529803df3fdae","fromNode":"93443cba3459a306","fromSide":"top","toNode":"bdeb6cfb50887583","toSide":"bottom","toEnd":"none","color":"4"}
+		{"id":"47dbedd86ebf2fb3","fromNode":"93443cba3459a306","fromSide":"left","toNode":"3bc9dc28b67115d2","toSide":"right","toEnd":"none","color":"4"},
+		{"id":"58c1eab480ebe123","fromNode":"93443cba3459a306","fromSide":"bottom","toNode":"bdeb6cfb50887583","toSide":"top","toEnd":"none","color":"4"},
+		{"id":"57ff3619c18afc5c","fromNode":"53aa760b80a39a03","fromSide":"top","toNode":"2e66fa4783278f19","toSide":"bottom","toEnd":"none","color":"4"}
 	]
 }
