@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBookJournalWhills",
+      "RiKakaoTalkFill",
+      "RiEnglishInput",
       "TiError404Off",
-      "LiWifi",
-      "FasBrain",
-      "RiMovie2Fill",
-      "TiWoman"
+      "LiWifi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,9 +57,7 @@
   "Programacion/Python/Dagster/Dagster_Flow.excalidraw.md": "RiSwordLine",
   "Idiomas": "TiWorld",
   "-Inicio": "🚪",
-  "Personal": "OcPersonFill16",
   "Proyects": "FabProductHunt",
-  "Personal/Personal_Diary": "📕",
   "Proyects/History's": "RiBookOpenFill",
   "Proyects/History's/El Gato Rodrigo": "RaCat",
   "Proyects/History's/La Sociedad de la Mascara": "FasMasksTheater",
@@ -162,5 +160,7 @@
     "iconColor": "#6d51d2"
   },
   "Proyects/Redes Sociales": "LiWifi",
-  "Proyects/History's/La Sociedad de la Mascara/Errums": "TiError404Off"
+  "Proyects/History's/La Sociedad de la Mascara/Errums": "TiError404Off",
+  "Idiomas/English": "RiKakaoTalkFill",
+  "Idiomas/English/The general basic english dictionary.md": "FasBookJournalWhills"
 }

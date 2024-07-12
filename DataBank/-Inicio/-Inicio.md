@@ -21,7 +21,10 @@ banner_y: 0.692
 # Idioma
 - English
 
-
 # [[Proyects]]
 - [[History's]]
 	- [[El Gato Rodrigo]]
+
+
+
+

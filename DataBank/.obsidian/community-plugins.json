@@ -7,7 +7,6 @@
   "image-window",
   "obsidian-banners",
   "obsidian-emoji-toolbar",
-  "folder-notes",
   "obsidian-icon-folder",
   "darlal-switcher-plus",
   "mousewheel-image-zoom",
@@ -17,5 +16,8 @@
   "dataview",
   "contribution-graph",
   "journals",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "folder-note-plugin",
+  "obsidian-file-color",
+  "folder-notes"
 ]

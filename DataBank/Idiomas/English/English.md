@@ -1,0 +1,14 @@
+- Basic Dictionary
+- Personal Diary in English
+- Talk with people
+- Use the emotions to learn
+- Earn much audio
+
+- Study
+	- 1 Hour
+	- Anki: Search the meaning of the words that I don't know in english
+	- Space repetion: 
+	- Two notebooks
+		- All errors
+		- The new words
+	- Study phonetic

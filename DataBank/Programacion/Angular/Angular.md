@@ -7,9 +7,9 @@ _sort:
   field: rank
   asc: false
   group: false
-_template: ""
-_templateName: ""
-banner: "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240625141620.png"
+_template: 
+_templateName: 
+r:
 ---
 
 

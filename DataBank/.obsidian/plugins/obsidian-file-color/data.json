@@ -1,0 +1,41 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "tWYXOkE4g17qnQpCqDkOC",
+      "name": "White",
+      "value": "#ffffff"
+    },
+    {
+      "id": "5rnYAPTPBKNyhM2bvpwSz",
+      "name": "Pink",
+      "value": "#e821c3"
+    },
+    {
+      "id": "LP-s4tVB9WN-ItfAC62rU",
+      "name": "Blue",
+      "value": "#4a31c9"
+    },
+    {
+      "id": "i6_oNTRibNkASvZQhdz0Z",
+      "name": "Red",
+      "value": "#db1a1a"
+    },
+    {
+      "id": "izkeR7MIIegf16q2gH5Xw",
+      "name": "Green",
+      "value": "#21c424"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Proyects/History's/El Gato Rodrigo/Characters",
+      "color": "tWYXOkE4g17qnQpCqDkOC"
+    },
+    {
+      "path": "Idiomas/English",
+      "color": "tWYXOkE4g17qnQpCqDkOC"
+    }
+  ]
+}
