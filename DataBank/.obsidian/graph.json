@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Ejercicios  ",
@@ -32,7 +32,7 @@
       "query": "tag:#programationTopic  ",
       "color": {
         "a": 1,
-        "rgb": 8781701
+        "rgb": 10941094
       }
     },
     {
@@ -62,6 +62,20 @@
         "a": 1,
         "rgb": 16356820
       }
+    },
+    {
+      "query": "tag:#Errum",
+      "color": {
+        "a": 1,
+        "rgb": 11832022
+      }
+    },
+    {
+      "query": "tag:#History",
+      "color": {
+        "a": 1,
+        "rgb": 16774272
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 0.795218295218295,
   "linkDistance": 250,
-  "scale": 0.19450022690616356,
-  "close": true
+  "scale": 0.38230109687701347,
+  "close": false
 }

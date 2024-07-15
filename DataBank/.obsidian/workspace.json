@@ -26,15 +26,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Proyects/History's/La Sociedad de la Mascara/Errums/Errum 2k52.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba4b3f417d9ea786",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7df3a7661b70c9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Programacion/Programacion.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Programacion.md",
+                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Programacion.md",
+                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Programacion.md"
+                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md"
               }
             }
           }
@@ -190,13 +213,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c8ff0e4f748cd42c",
+  "active": "ba4b3f417d9ea786",
   "lastOpenFiles": [
-    "Proyects/Proyects.md",
+    "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
+    "Proyects/History's/El Gato Rodrigo/El Gato Rodrigo.md",
+    "Proyects/History's/La Sociedad de la Mascara/La Sociedad de la Mascara.md",
+    "-Inicio/-Inicio.md",
     "Programacion/Programacion.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Errums.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Errum 2k52.md",
+    "Proyects/Proyects.md",
     "Proyects/Redes Sociales/Redes Sociales.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
-    "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/Chapters.md",
     "Style Comands.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Characters.md",
@@ -204,23 +232,18 @@
     "Idiomas/English/The general basic english dictionary.md",
     "Idiomas/English/English.md",
     "Idiomas/English",
-    "-Inicio/-Inicio.md",
     "Programacion/Angular/Angular.md",
     "Programacion/GitHub/GitHub.md",
     "Programacion/Python/Python.md",
     "Programacion/JavaScript/JavaScript.md",
-    "Proyects/History's/El Gato Rodrigo/El Gato Rodrigo.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Fortachon (A).md",
     "Proyects/History's/El Gato Rodrigo/Characters/Bailarina exotica.md",
     "Programacion/Python/Virtual enviroment.md",
     "Programacion/GitHub/Introduccion-GitHub.md",
-    "Proyects/History's/La Sociedad de la Mascara/La Sociedad de la Mascara.md",
     "Proyects/History's/History's.md",
     "Programacion/Angular/TypeScript/TypeScript.md",
     "Programacion/Angular/Temas/Temas.md",
     "Proyects/History's/La Sociedad de la Mascara/Errums",
-    "Proyects/History's/El Gato Rodrigo/Characters/Comediante.md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Gustavo Chef(S).md",
     "Excalidraw",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar",
     "Proyects/History's/El Gato Rodrigo/Chapters",
