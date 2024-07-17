@@ -4,7 +4,6 @@ cssclasses:
 tags:
   - mainTopic
 ---
-
 [[Angular]]
 [[Python]]
 [[GitHub]]

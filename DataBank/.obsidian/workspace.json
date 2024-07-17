@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "02739edf0d6c089c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyects/History's/La Sociedad de la Mascara/Errums/Errum 2k52.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba4b3f417d9ea786",
             "type": "leaf",
             "state": {
@@ -42,22 +29,9 @@
                 "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "7df3a7661b70c9db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion/Programacion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,34 +189,35 @@
   },
   "active": "ba4b3f417d9ea786",
   "lastOpenFiles": [
+    "Pasted Image 20240717163646_419.png",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
-    "Proyects/History's/El Gato Rodrigo/El Gato Rodrigo.md",
-    "Proyects/History's/La Sociedad de la Mascara/La Sociedad de la Mascara.md",
-    "-Inicio/-Inicio.md",
-    "Programacion/Programacion.md",
-    "Proyects/History's/La Sociedad de la Mascara/Errums/Errums.md",
-    "Proyects/History's/La Sociedad de la Mascara/Errums/Errum 2k52.md",
-    "Proyects/Proyects.md",
-    "Proyects/Redes Sociales/Redes Sociales.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/Chapters.md",
-    "Style Comands.md",
+    "Proyects/History's/El Gato Rodrigo/El Gato Rodrigo.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Characters.md",
+    "Proyects/Proyects.md",
+    "Programacion/Python/Dagster/Install and running.md",
+    "Programacion/Python/Dagster/Dagster.md",
+    "Programacion/Python/Python.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Errums.md",
+    "Proyects/Redes Sociales/Redes Sociales.md",
+    "Proyects/Redes Sociales/YukiroRaina/En defensa de pt2.md",
+    "Proyects/Redes Sociales/YukiroRaina/YukiroRaina.md",
+    "Proyects/Redes Sociales/YukiroRaina",
+    "Proyects/Redes Sociales/Sin título.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Errum 2k52.md",
+    "Programacion/Programacion.md",
+    "Proyects/History's/La Sociedad de la Mascara/La Sociedad de la Mascara.md",
+    "-Inicio/-Inicio.md",
+    "Style Comands.md",
     "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
     "Idiomas/English/The general basic english dictionary.md",
     "Idiomas/English/English.md",
     "Idiomas/English",
     "Programacion/Angular/Angular.md",
     "Programacion/GitHub/GitHub.md",
-    "Programacion/Python/Python.md",
     "Programacion/JavaScript/JavaScript.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Fortachon (A).md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Bailarina exotica.md",
-    "Programacion/Python/Virtual enviroment.md",
-    "Programacion/GitHub/Introduccion-GitHub.md",
-    "Proyects/History's/History's.md",
-    "Programacion/Angular/TypeScript/TypeScript.md",
-    "Programacion/Angular/Temas/Temas.md",
     "Proyects/History's/La Sociedad de la Mascara/Errums",
     "Excalidraw",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar",
@@ -251,7 +226,6 @@
     "Proyects/History's/La Sociedad de la Mascara",
     "Proyects/History's/El Gato Rodrigo",
     "Proyects/History's",
-    "Proyects/Redes Sociales",
     "Programacion/Python/Dagster/Flujo_Dagster.canvas",
     "Programacion/Angular/img/Pasted image 20240703110504.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Untitled (26).png",

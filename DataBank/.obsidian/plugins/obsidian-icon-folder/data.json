@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiCoinYuan",
       "FasBookJournalWhills",
       "RiKakaoTalkFill",
       "RiEnglishInput",
-      "TiError404Off",
-      "LiWifi"
+      "TiError404Off"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -162,5 +162,6 @@
   "Proyects/Redes Sociales": "LiWifi",
   "Proyects/History's/La Sociedad de la Mascara/Errums": "TiError404Off",
   "Idiomas/English": "RiKakaoTalkFill",
-  "Idiomas/English/The general basic english dictionary.md": "FasBookJournalWhills"
+  "Idiomas/English/The general basic english dictionary.md": "FasBookJournalWhills",
+  "Proyects/Redes Sociales/YukiroRaina": "TiCoinYuan"
 }

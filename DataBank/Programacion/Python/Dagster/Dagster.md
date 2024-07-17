@@ -10,7 +10,7 @@ pip install -e '.[dev]'
 ```
 ###  [[Install and running]] 
 ## Dagster Flow ![[Dagster_Flow.excalidraw|500]]
-# 🏧 <font color="#b2a2c7">Automation</font>
+# 🏧 <font color="#b2a2c7">Automatic</font>
 
 - ### [[Schedules]]
 
