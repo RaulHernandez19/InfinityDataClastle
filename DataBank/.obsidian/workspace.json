@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
+                "file": "Programacion/Python/Dagster/Install and running.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
+                "file": "Programacion/Python/Dagster/Install and running.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
+                "file": "Programacion/Python/Dagster/Install and running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md"
+                "file": "Programacion/Python/Dagster/Install and running.md"
               }
             }
           }
@@ -187,17 +186,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ba4b3f417d9ea786",
+  "active": "478c15c0df97bddb",
   "lastOpenFiles": [
-    "Pasted Image 20240717163646_419.png",
+    "Programacion/Python/Dagster/Dagster.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
+    "Pasted Image 20240717163646_419.png",
     "Proyects/History's/El Gato Rodrigo/Chapters/Chapters.md",
     "Proyects/History's/El Gato Rodrigo/El Gato Rodrigo.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Characters.md",
     "Proyects/Proyects.md",
     "Programacion/Python/Dagster/Install and running.md",
-    "Programacion/Python/Dagster/Dagster.md",
     "Programacion/Python/Python.md",
     "Proyects/History's/La Sociedad de la Mascara/Errums/Errums.md",
     "Proyects/Redes Sociales/Redes Sociales.md",
@@ -236,7 +235,6 @@
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105108.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105030.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Untitled (39).png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703104441.png",
     "Sin título.canvas",
     "TypeScript/Sin título.canvas",
     "epico/Sin título.canvas",

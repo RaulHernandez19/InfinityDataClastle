@@ -17,7 +17,7 @@ poetry install
 # 4.Dagster Home declaration
 ```bash
 $env:DAGSTER_HOME= "C:path\to\dagster_home"
-#Or "set DAGSTER_HOME"
+#Or set DAGSTER_HOME=path
 ```
 
 # 5.Run dagster
