@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiCoinYuan",
-      "FasBookJournalWhills",
-      "RiKakaoTalkFill",
-      "RiEnglishInput",
-      "TiError404Off"
+      "TiLetterSpacing",
+      "RiParenthesesLine",
+      "FasHandshake",
+      "OcRelFilePath16",
+      "TiBooks"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -163,5 +163,10 @@
   "Proyects/History's/La Sociedad de la Mascara/Errums": "TiError404Off",
   "Idiomas/English": "RiKakaoTalkFill",
   "Idiomas/English/The general basic english dictionary.md": "FasBookJournalWhills",
-  "Proyects/Redes Sociales/YukiroRaina": "TiCoinYuan"
+  "Proyects/Redes Sociales/YukiroRaina": "TiCoinYuan",
+  "Programacion/JavaScript/Img": "RiFolderImageFill",
+  "Programacion/JavaScript/Temas": "TiBooks",
+  "Programacion/JavaScript/Temas/Read Path's and Files.md": "OcRelFilePath16",
+  "Programacion/JavaScript/Temas/Promise.md": "FasHandshake",
+  "Programacion/JavaScript/Temas/Regex.md": "TiLetterSpacing"
 }
