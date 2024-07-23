@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📚",
+      "LiPackage",
       "TiLetterSpacing",
       "RiParenthesesLine",
-      "FasHandshake",
-      "OcRelFilePath16",
-      "TiBooks"
+      "FasHandshake"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -168,5 +168,7 @@
   "Programacion/JavaScript/Temas": "TiBooks",
   "Programacion/JavaScript/Temas/Read Path's and Files.md": "OcRelFilePath16",
   "Programacion/JavaScript/Temas/Promise.md": "FasHandshake",
-  "Programacion/JavaScript/Temas/Regex.md": "TiLetterSpacing"
+  "Programacion/JavaScript/Temas/Regex.md": "TiLetterSpacing",
+  "Programacion/Python/Poetry.md": "LiPackage",
+  "Programacion/Python/_Themes": "📚"
 }

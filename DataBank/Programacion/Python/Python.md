@@ -2,6 +2,9 @@
 
 # [[Dagster]]
 
+# Utilidades
+
 ### [[Virtual enviroment]]
 
+### [[Poetry]]
 #Lenguaje 

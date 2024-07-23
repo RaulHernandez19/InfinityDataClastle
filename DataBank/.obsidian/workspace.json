@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ead1f12a6175b86",
+            "id": "f876579a5c4f1997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/JavaScript/Temas/Regex.md",
+                "file": "Programacion/Python/_Themes/Basic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/JavaScript/Temas/Regex.md",
+                "file": "Programacion/Python/_Themes/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/JavaScript/Temas/Regex.md",
+                "file": "Programacion/Python/_Themes/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/JavaScript/Temas/Regex.md"
+                "file": "Programacion/Python/_Themes/Basic.md"
               }
             }
           }
@@ -176,26 +176,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c8ff0e4f748cd42c",
+  "active": "f876579a5c4f1997",
   "lastOpenFiles": [
-    "Programacion/JavaScript/Temas/Read Path's and Files.md",
+    "Programacion/Python/Analisis de datos/Analisis de datos.md",
+    "Programacion/Python/_Themes/Basic.md",
+    "Programacion/Python/_Themes/Basic",
+    "Programacion/Python/_Themes",
+    "Programacion/Python/Poetry.md",
+    "Programacion/Python/Dagster/Install and running.md",
+    "Programacion/Python/Dagster/Dagster.md",
+    "Programacion/Python/Python.md",
+    "Proyects/Sin nombre",
+    "Programacion/JavaScript/JavaScript.md",
+    "Programacion/Python/Analisis de datos/Pandas/img/Pasted Image 20240717163646_419.png",
     "Programacion/JavaScript/Temas/Regex.md",
+    "Programacion/JavaScript/Temas/Read Path's and Files.md",
     "Programacion/JavaScript/Temas/Promise.md",
     "Programacion/JavaScript/Temas/API's.md",
-    "Programacion/JavaScript/JavaScript.md",
     "Programacion/JavaScript/Img",
     "Programacion/JavaScript/Temas",
     "Programacion/JavaScript/API",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
-    "Programacion/Python/Dagster/Install and running.md",
-    "Programacion/Python/Dagster/Dagster.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
-    "Pasted Image 20240717163646_419.png",
     "Proyects/History's/El Gato Rodrigo/Chapters/Chapters.md",
     "Proyects/History's/El Gato Rodrigo/El Gato Rodrigo.md",
     "Proyects/History's/El Gato Rodrigo/Characters/Characters.md",
     "Proyects/Proyects.md",
-    "Programacion/Python/Python.md",
     "Proyects/History's/La Sociedad de la Mascara/Errums/Errums.md",
     "Proyects/Redes Sociales/Redes Sociales.md",
     "Proyects/Redes Sociales/YukiroRaina/En defensa de pt2.md",
@@ -206,16 +212,10 @@
     "Programacion/Programacion.md",
     "Proyects/History's/La Sociedad de la Mascara/La Sociedad de la Mascara.md",
     "-Inicio/-Inicio.md",
-    "Style Comands.md",
     "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
-    "Idiomas/English/The general basic english dictionary.md",
-    "Idiomas/English/English.md",
     "Idiomas/English",
     "Proyects/History's/La Sociedad de la Mascara/Errums",
     "Excalidraw",
-    "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar",
-    "Proyects/History's/El Gato Rodrigo/Chapters",
-    "Proyects/History's/El Gato Rodrigo/Characters",
     "Programacion/Python/Dagster/Flujo_Dagster.canvas",
     "Programacion/Angular/img/Pasted image 20240703110504.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Untitled (26).png",
