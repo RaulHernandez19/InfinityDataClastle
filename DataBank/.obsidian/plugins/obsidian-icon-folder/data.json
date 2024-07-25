@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📊",
+      "⚙",
       "📚",
       "LiPackage",
-      "TiLetterSpacing",
-      "RiParenthesesLine",
-      "FasHandshake"
+      "TiLetterSpacing"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,7 +30,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "Programacion": "RiCodeBoxFill",
   "Programacion/Angular": "FabAngular",
@@ -170,5 +171,7 @@
   "Programacion/JavaScript/Temas/Promise.md": "FasHandshake",
   "Programacion/JavaScript/Temas/Regex.md": "TiLetterSpacing",
   "Programacion/Python/Poetry.md": "LiPackage",
-  "Programacion/Python/_Themes": "📚"
+  "Programacion/Python/_Themes": "📚",
+  "Programacion/Python/Dagster/Topics/Config": "⚙",
+  "Programacion/Python/Dagster/Topics/Graph": "📊"
 }

@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f876579a5c4f1997",
+            "id": "9a69ead3337143c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Python/_Themes/Basic.md",
+                "file": "Programacion/Python/Dagster/Topics/Ops/Ops.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a60f389f7aa694cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/Python/Dagster/Topics/Ops/Yield.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Python/_Themes/Basic.md",
+                "file": "Programacion/Python/Dagster/Topics/Ops/Ops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Python/_Themes/Basic.md",
+                "file": "Programacion/Python/Dagster/Topics/Ops/Ops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Python/_Themes/Basic.md"
+                "file": "Programacion/Python/Dagster/Topics/Ops/Ops.md"
               }
             }
           }
@@ -176,16 +189,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f876579a5c4f1997",
+  "active": "9a69ead3337143c3",
   "lastOpenFiles": [
+    "Programacion/Python/Dagster/Topics/Ops/Yield.md",
+    "Programacion/Python/Dagster/Topics/Ops/Ops.md",
+    "Programacion/Python/Dagster/Topics/Jobs/Jobs.md",
+    "Programacion/Python/Dagster/Dagster.md",
+    "Programacion/Python/Dagster/Topics/Ops/Out.md",
+    "Programacion/Python/Dagster/Install and running.md",
+    "Programacion/Python/Poetry.md",
+    "Programacion/Python/Dagster/Topics/Graph/Graph.md",
+    "Programacion/Python/Dagster/Topics/Config/Config.md",
     "Programacion/Python/Analisis de datos/Analisis de datos.md",
+    "Programacion/Angular/Temas/Temas.md",
+    "Programacion/Python/Python.md",
+    "Programacion/Programacion.md",
+    "Proyects/Redes Sociales/Drawing 2024-07-24 14.57.17.excalidraw.md",
+    "Proyects/Redes Sociales/YukiroRaina/YukiroRaina.md",
+    "Proyects/Proyects.md",
     "Programacion/Python/_Themes/Basic.md",
     "Programacion/Python/_Themes/Basic",
     "Programacion/Python/_Themes",
-    "Programacion/Python/Poetry.md",
-    "Programacion/Python/Dagster/Install and running.md",
-    "Programacion/Python/Dagster/Dagster.md",
-    "Programacion/Python/Python.md",
     "Proyects/Sin nombre",
     "Programacion/JavaScript/JavaScript.md",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted Image 20240717163646_419.png",
@@ -200,18 +224,7 @@
     "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
     "Proyects/History's/El Gato Rodrigo/Chapters/Chapters.md",
     "Proyects/History's/El Gato Rodrigo/El Gato Rodrigo.md",
-    "Proyects/History's/El Gato Rodrigo/Characters/Characters.md",
-    "Proyects/Proyects.md",
-    "Proyects/History's/La Sociedad de la Mascara/Errums/Errums.md",
-    "Proyects/Redes Sociales/Redes Sociales.md",
-    "Proyects/Redes Sociales/YukiroRaina/En defensa de pt2.md",
-    "Proyects/Redes Sociales/YukiroRaina/YukiroRaina.md",
     "Proyects/Redes Sociales/YukiroRaina",
-    "Proyects/Redes Sociales/Sin título.md",
-    "Proyects/History's/La Sociedad de la Mascara/Errums/Errum 2k52.md",
-    "Programacion/Programacion.md",
-    "Proyects/History's/La Sociedad de la Mascara/La Sociedad de la Mascara.md",
-    "-Inicio/-Inicio.md",
     "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
     "Idiomas/English",
     "Proyects/History's/La Sociedad de la Mascara/Errums",

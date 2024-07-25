@@ -23,5 +23,3 @@
 - `poetry shell`: Este comando inicia un nuevo shell interactivo con el entorno virtual activado.
     
 - `poetry run comando`: Este comando ejecuta el comando especificado en el entorno virtual de tu proyecto.
-
-#Ejemplo:

@@ -3,5 +3,6 @@
   "vimMode": false,
   "defaultViewMode": "preview",
   "showRibbon": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "spellcheck": false
 }
