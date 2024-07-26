@@ -3,9 +3,17 @@ Una `Op` es la unidad central de cálculo en Dagster.Una operación individual
 ```python
 from dagster import op
    
-@op
-def get_file_sizes(context: OpExecutionContext, config: ):
-# Aquí va la lógica de la operación
+@op(out={"nombreDeSalida": Out(is_required=False)})
+
+def get_testers(context: OpExecutionContext, config: testers_options, platform):
+
+    try:
+        config_data = config.(valor)
+		valueDeYield=funcion()
+            context.log.info(f"valueDeYield")
+            yield Output(value=valueDeYield, output_name="nombreDeSalida")
+    except Exception as e:
+        context.log.info(f"An error ocurred valueDeYield: {e}")
 ```
 
 | Name                 | Description                                                                                                                                                                      |
@@ -16,6 +24,11 @@ def get_file_sizes(context: OpExecutionContext, config: ):
 | `OpExecutionContext` | An object exposing Dagster system APIs for resource access, logging, and more. Can be injected into an op by specifying `context` as the first argument of the compute function. |
 | `OpDefinition`       | Class for ops. You will rarely want to instantiate this class directly. Instead, you should use the                                                                              |
 
-## Elementos dentro de la logica:
-### Yield (Salida)
-![[Yield#<font color=" b2a2c7">Concepto</font>]]
+## <font color="#92cddc">Elementos dentro de la logica:</font>
+### <font color="#b2a2c7">Yield (Salida)</font>
+![[Yield#^14d156]]
+
+### <font color="#b2a2c7">Context(Mensaje)</font>
+![[context.log#^08ee9d]]
+
+

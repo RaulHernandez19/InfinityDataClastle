@@ -171,7 +171,7 @@
   "Programacion/JavaScript/Temas/Promise.md": "FasHandshake",
   "Programacion/JavaScript/Temas/Regex.md": "TiLetterSpacing",
   "Programacion/Python/Poetry.md": "LiPackage",
-  "Programacion/Python/_Themes": "📚",
   "Programacion/Python/Dagster/Topics/Config": "⚙",
-  "Programacion/Python/Dagster/Topics/Graph": "📊"
+  "Programacion/Python/Dagster/Topics/Graph": "📊",
+  "Programacion/Python/_Topics": "📚"
 }

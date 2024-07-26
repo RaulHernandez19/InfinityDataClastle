@@ -1,10 +1,21 @@
-# [[Analisis de datos]]
+---
+tags:
+  - Lenguaje
+cssclasses: []
+---
+# 📊 [[Analisis de datos]]
 
-# [[Dagster]]
+# 🦑[[Dagster]]
+
+# 📚 Topics
+
+### [[Basic]]
+### 🧵Threads and multiprocesing
+
+#### [[ThreadPoolExecutor]]
 
 # Utilidades
 
-### [[Virtual enviroment]]
+#### [[Virtual enviroment]]
 
-### [[Poetry]]
-#Lenguaje 
+#### [[Poetry]]

@@ -1,12 +1,15 @@
 
 
-variable_job = job(Puede ser un [[Graph]]) .<font color="#000000"><span style="background:#fff88f">to_job </span></font>
+```python
+variable_job = job(Puede ser un Graph) .to_job (Values)
+```
 
 | Values:        |                     |
 | -------------- | ------------------- |
 | description=   | "description"       |
 | tags=          | {'tag':'tag_name'}  |
 | resource_defs= | {"resource": value} |
+|                |                     |
 
 
 >[!NOTE]

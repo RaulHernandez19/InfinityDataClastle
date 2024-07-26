@@ -7,7 +7,7 @@ python -m venv .venv
 .\.venv\scripts\activate
 ```
 
-# Error
+# <font color="#c0504d">Error</font>
 
 A way is changing the terminal in VSCode to Command Prompt instead of PowerShell.
 
