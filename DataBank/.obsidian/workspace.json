@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40607ce5016c923b",
+        "id": "28459ef6d43d176b",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd7687ad475800c",
+            "id": "91d20223c0da88a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion/DataBase/MongoDB/MongoDB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/DataBase/MongoDB/MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/DataBase/MongoDB/MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programacion/DataBase/MongoDB/MongoDB.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -176,30 +167,31 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2fd7687ad475800c",
+  "active": "91d20223c0da88a6",
   "lastOpenFiles": [
+    "Programacion/JavaScript/JavaScript.md",
+    "Programacion/GitHub/GitHub.md",
+    "Programacion/GitHub/Introduccion-GitHub.md",
+    "Programacion/DataBase/MongoDB/MongoDB.md",
     "Programacion/DataBase/DataBase.md",
     "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/Time/Time.md",
     "Programacion/Python/Dagster/Dagster.md",
-    "Programacion/DataBase/MongoDB/MongoDB.md",
     "Programacion/Programacion.md",
     "-Inicio/-Inicio.md",
     "Programacion/DataBase/MongoDB",
     "Programacion/DataBase",
-    "Programacion/JavaScript/Temas/_WEB/API's/API's.md",
-    "Programacion/JavaScript/Temas/_WEB/HTTP_Js.md",
-    "Programacion/JavaScript/JavaScript.md",
-    "Programacion/JavaScript/Temas/_WEB/_WEB.md",
+    "Programacion/JavaScript/_WEB/API's/API's.md",
+    "Programacion/JavaScript/_WEB/HTTP_Js.md",
+    "Programacion/JavaScript/_WEB/_WEB.md",
     "Programacion/Python/Python.md",
     "Programacion/Python/_Topics/Lambda.md",
-    "Programacion/JavaScript/Temas/_WEB/logger.md",
-    "Programacion/JavaScript/Temas/_WEB/Swagger.md",
+    "Programacion/JavaScript/_WEB/logger.md",
+    "Programacion/JavaScript/_WEB/Swagger.md",
     "Programacion/JavaScript/Temas/Promise.md",
-    "Programacion/JavaScript/Temas/_WEB",
+    "Programacion/JavaScript/_WEB",
     "Programacion/JavaScript/Temas/Read Path's and Files.md",
-    "Programacion/JavaScript/Temas/_WEB/API's",
+    "Programacion/JavaScript/_WEB/API's",
     "Programacion/JavaScript/Temas/Regex.md",
-    "Programacion/GitHub/GitHub.md",
     "Proyects/Redes Sociales/Drawing 2024-07-24 14.57.17.excalidraw.md",
     "Proyects/Proyects.md",
     "Proyects/History's/History's.md",
@@ -207,7 +199,6 @@
     "Proyects/Redes Sociales/Sin título.md",
     "Programacion/Python/Dagster/Install and running.md",
     "Idiomas/English/The general basic english dictionary.md",
-    "Programacion/Python/Virtual enviroment.md",
     "Programacion/Python/Sin nombre",
     "Programacion/Python/_Themes/Basic",
     "Programacion/Python/_Topics",

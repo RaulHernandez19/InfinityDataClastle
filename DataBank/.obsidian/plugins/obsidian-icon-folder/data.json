@@ -174,11 +174,11 @@
   "Programacion/Python/Dagster/Topics/Config": "⚙",
   "Programacion/Python/Dagster/Topics/Graph": "📊",
   "Programacion/Python/_Topics": "📚",
-  "Programacion/JavaScript/Temas/_WEB": "TiWorldWww",
-  "Programacion/JavaScript/Temas/_WEB/API's": "FasBox",
-  "Programacion/JavaScript/Temas/_WEB/HTTP_Js.md": "IbWebsiteWithText",
-  "Programacion/JavaScript/Temas/_WEB/logger.md": "LiLogIn",
-  "Programacion/JavaScript/Temas/_WEB/Swagger.md": "IbDocumentText",
   "Programacion/DataBase": "RiDatabase2Fill",
-  "Programacion/DataBase/MongoDB": "TiBrandMongodb"
+  "Programacion/DataBase/MongoDB": "TiBrandMongodb",
+  "Programacion/JavaScript/_WEB": "TiWorldWww",
+  "Programacion/JavaScript/_WEB/API's": "FasBox",
+  "Programacion/JavaScript/_WEB/HTTP_Js.md": "IbWebsiteWithText",
+  "Programacion/JavaScript/_WEB/logger.md": "LiLogIn",
+  "Programacion/JavaScript/_WEB/Swagger.md": "IbDocumentText"
 }
