@@ -28,7 +28,6 @@ const directoryPath = path.join(__dirname, path)
 ```
 
 >Importante saber que se usara \\\\ para leer archivos dentro de networks
-## Filter to the path
 
 # Rutas de interes:
 https://youtu.be/V806HEmJ__Y?si=FonbdgaAImRz8bNl

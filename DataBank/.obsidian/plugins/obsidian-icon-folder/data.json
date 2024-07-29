@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📊",
-      "⚙",
-      "📚",
-      "LiPackage",
-      "TiLetterSpacing"
+      "TiBrandMongodb",
+      "RiDatabase2Fill",
+      "FasDatabase",
+      "LiLogIn",
+      "IbWebsiteWithText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -173,5 +173,12 @@
   "Programacion/Python/Poetry.md": "LiPackage",
   "Programacion/Python/Dagster/Topics/Config": "⚙",
   "Programacion/Python/Dagster/Topics/Graph": "📊",
-  "Programacion/Python/_Topics": "📚"
+  "Programacion/Python/_Topics": "📚",
+  "Programacion/JavaScript/Temas/_WEB": "TiWorldWww",
+  "Programacion/JavaScript/Temas/_WEB/API's": "FasBox",
+  "Programacion/JavaScript/Temas/_WEB/HTTP_Js.md": "IbWebsiteWithText",
+  "Programacion/JavaScript/Temas/_WEB/logger.md": "LiLogIn",
+  "Programacion/JavaScript/Temas/_WEB/Swagger.md": "IbDocumentText",
+  "Programacion/DataBase": "RiDatabase2Fill",
+  "Programacion/DataBase/MongoDB": "TiBrandMongodb"
 }

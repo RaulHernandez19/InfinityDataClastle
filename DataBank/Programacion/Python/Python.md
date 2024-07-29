@@ -9,7 +9,8 @@ cssclasses: []
 
 # 📚 Topics
 
-### [[Basic]]
+- ### [[Basic]]
+- ### [[Lambda]]
 ### 🧵Threads and multiprocesing
 
 #### [[ThreadPoolExecutor]]

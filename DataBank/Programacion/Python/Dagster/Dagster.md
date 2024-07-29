@@ -28,6 +28,30 @@ pip install -e '.[dev]'
 
 # 💠Tips
 
-1. 
+1. Tener un `__init__`.py para poder correr el dagster de forma mas sencilla y prestablecer los jobs y mas estructuras 
+```python
+from dagster import (
+    Definitions,
+    ScheduleDefinition,
+)
+
+from .jobs.archivosJobs import (
+    nombreDelJob
+)
+
+testerschedule = ScheduleDefinition(
+    job=nombreDelJob,
+    cron_schedule='0 * * * *'
+)
+
+defs = Definitions(
+    jobs = [
+        nombreDelJob                                    
+    ],
+    schedules = [
+        tester_monitoring_schedule
+    ]
+)
+```
 
 #languageComplement 
