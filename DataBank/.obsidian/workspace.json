@@ -11,11 +11,43 @@
             "id": "91d20223c0da88a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/Programacion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cbd977f6a4f6e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/UI_UX/UI_UX.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c052db5f453534fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/UI_UX/UI_UX.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programacion/UI_UX/UI_UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programacion/UI_UX/UI_UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programacion/UI_UX/UI_UX.md"
+              }
             }
           }
         ],
@@ -167,45 +203,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "91d20223c0da88a6",
+  "active": "3cbd977f6a4f6e9d",
   "lastOpenFiles": [
+    "Pasted image 20240730135743.png",
+    "Programacion/UI_UX/UI_UX.md",
+    "Pasted image 20240730115411.png",
+    "Programacion/Programacion.md",
+    "Programacion/Python/Python.md",
+    "Programacion/UI_UX/Img",
+    "Programacion/DataBase/MongoDB/MongoDB.md",
+    "Programacion/UI_UX",
+    "Programacion/DataBase/DataBase.md",
+    "Programacion/Angular/Angular.md",
+    "Programacion/Python/_Topics/ThreadPoolExecutor.md",
+    "Programacion/Python/Dagster/Dagster.md",
     "Programacion/JavaScript/JavaScript.md",
     "Programacion/GitHub/GitHub.md",
-    "Programacion/GitHub/Introduccion-GitHub.md",
-    "Programacion/DataBase/MongoDB/MongoDB.md",
-    "Programacion/DataBase/DataBase.md",
-    "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/Time/Time.md",
-    "Programacion/Python/Dagster/Dagster.md",
-    "Programacion/Programacion.md",
-    "-Inicio/-Inicio.md",
+    "Programacion/Python/Analisis de datos/Analisis de datos.md",
+    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
+    "Programacion/Python/Analisis de datos/Pandas/Ejercicios/Random excercises.md",
+    "Programacion/Angular/Temas/Temas.md",
+    "Programacion/Angular/Temas/Bloques fundamentales.md",
+    "Programacion/Angular/TypeScript/TypeScript.md",
+    "Programacion/Angular/TypeScript/Apartados/Apartados.md",
+    "Programacion/Angular/TypeScript/Apartados/Basico.md",
+    "Programacion/Angular/TypeScript/Apartados/Decoradores-TypeScript.md",
+    "Programacion/Angular/TypeScript/Apartados/Clases.md",
+    "Programacion/Angular/TypeScript/Apartados/Desestructuracion.md",
+    "Programacion/Angular/TypeScript/Apartados/Encadenamiento Opcional.md",
+    "Programacion/Angular/TypeScript/Apartados/Funciones.md",
+    "Proyects/Redes Sociales/YukiroRaina/YukiroRaina.md",
+    "Proyects/Redes Sociales/YukiroRaina/En defensa de pt2.md",
     "Programacion/DataBase/MongoDB",
     "Programacion/DataBase",
-    "Programacion/JavaScript/_WEB/API's/API's.md",
-    "Programacion/JavaScript/_WEB/HTTP_Js.md",
-    "Programacion/JavaScript/_WEB/_WEB.md",
-    "Programacion/Python/Python.md",
-    "Programacion/Python/_Topics/Lambda.md",
-    "Programacion/JavaScript/_WEB/logger.md",
-    "Programacion/JavaScript/_WEB/Swagger.md",
-    "Programacion/JavaScript/Temas/Promise.md",
     "Programacion/JavaScript/_WEB",
-    "Programacion/JavaScript/Temas/Read Path's and Files.md",
     "Programacion/JavaScript/_WEB/API's",
-    "Programacion/JavaScript/Temas/Regex.md",
-    "Proyects/Redes Sociales/Drawing 2024-07-24 14.57.17.excalidraw.md",
-    "Proyects/Proyects.md",
-    "Proyects/History's/History's.md",
-    "Proyects/Redes Sociales/YukiroRaina/En defensa de pt2.md",
-    "Proyects/Redes Sociales/Sin título.md",
-    "Programacion/Python/Dagster/Install and running.md",
-    "Idiomas/English/The general basic english dictionary.md",
     "Programacion/Python/Sin nombre",
     "Programacion/Python/_Themes/Basic",
     "Programacion/Python/_Topics",
     "Proyects/Sin nombre",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted Image 20240717163646_419.png",
-    "Programacion/JavaScript/Img",
-    "Programacion/JavaScript/Temas",
     "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
     "Programacion/Python/Dagster/Flujo_Dagster.canvas",
     "Programacion/Angular/img/Pasted image 20240703110504.png",
@@ -216,7 +253,6 @@
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105142.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105108.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105030.png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Untitled (39).png",
     "Sin título.canvas",
     "TypeScript/Sin título.canvas",
     "epico/Sin título.canvas",

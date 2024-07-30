@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiImage2Fill",
+      "TiIcons",
       "TiBrandMongodb",
       "RiDatabase2Fill",
-      "FasDatabase",
-      "LiLogIn",
-      "IbWebsiteWithText"
+      "FasDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -180,5 +180,7 @@
   "Programacion/JavaScript/_WEB/API's": "FasBox",
   "Programacion/JavaScript/_WEB/HTTP_Js.md": "IbWebsiteWithText",
   "Programacion/JavaScript/_WEB/logger.md": "LiLogIn",
-  "Programacion/JavaScript/_WEB/Swagger.md": "IbDocumentText"
+  "Programacion/JavaScript/_WEB/Swagger.md": "IbDocumentText",
+  "Programacion/UI_UX": "TiIcons",
+  "Programacion/UI_UX/Img": "RiImage2Fill"
 }

@@ -1,5 +1,5 @@
 ## Yukiro_Studios
 
-## Yukiro_Raina
+## [[YukiroRaina]]
 
 ## Sociedad de la mascara
