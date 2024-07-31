@@ -1,6 +1,6 @@
-## Conexion con javascript
+## [[Programacion/DataBase/MongoDB/JavaScript|JavaScript]]
 
-### <font color="#b2a2c7">config</font>
+
 
 # LinksToDownload
 - [Tutorial to installing](https://www.youtube.com/watch?v=eKXIxSZrJfw)

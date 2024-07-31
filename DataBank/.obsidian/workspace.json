@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Programacion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cbd977f6a4f6e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion/UI_UX/UI_UX.md",
+                "file": "Programacion/Python/Analisis de datos/Analisis de datos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/UI_UX/UI_UX.md",
+                "file": "Programacion/Python/Analisis de datos/Analisis de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/UI_UX/UI_UX.md",
+                "file": "Programacion/Python/Analisis de datos/Analisis de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/UI_UX/UI_UX.md"
+                "file": "Programacion/Python/Analisis de datos/Analisis de datos.md"
               }
             }
           }
@@ -203,24 +189,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3cbd977f6a4f6e9d",
+  "active": "91d20223c0da88a6",
   "lastOpenFiles": [
-    "Pasted image 20240730135743.png",
-    "Programacion/UI_UX/UI_UX.md",
-    "Pasted image 20240730115411.png",
+    "Programacion/Python/Dagster/Dagster.md",
+    "Programacion/Python/Analisis de datos/Analisis de datos.md",
     "Programacion/Programacion.md",
+    "Programacion/Python/Analisis de datos/Numpy/Numpy.md",
+    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
+    "Programacion/DataBase/MongoDB/MongoDB.md",
+    "Programacion/DataBase/MongoDB/JavaScript.md",
+    "Programacion/UI_UX/UI_UX.md",
+    "Programacion/DataBase/DataBase.md",
+    "Pasted image 20240730135743.png",
+    "Pasted image 20240730115411.png",
     "Programacion/Python/Python.md",
     "Programacion/UI_UX/Img",
-    "Programacion/DataBase/MongoDB/MongoDB.md",
     "Programacion/UI_UX",
-    "Programacion/DataBase/DataBase.md",
     "Programacion/Angular/Angular.md",
     "Programacion/Python/_Topics/ThreadPoolExecutor.md",
-    "Programacion/Python/Dagster/Dagster.md",
     "Programacion/JavaScript/JavaScript.md",
     "Programacion/GitHub/GitHub.md",
-    "Programacion/Python/Analisis de datos/Analisis de datos.md",
-    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
     "Programacion/Python/Analisis de datos/Pandas/Ejercicios/Random excercises.md",
     "Programacion/Angular/Temas/Temas.md",
     "Programacion/Angular/Temas/Bloques fundamentales.md",
@@ -233,7 +221,6 @@
     "Programacion/Angular/TypeScript/Apartados/Encadenamiento Opcional.md",
     "Programacion/Angular/TypeScript/Apartados/Funciones.md",
     "Proyects/Redes Sociales/YukiroRaina/YukiroRaina.md",
-    "Proyects/Redes Sociales/YukiroRaina/En defensa de pt2.md",
     "Programacion/DataBase/MongoDB",
     "Programacion/DataBase",
     "Programacion/JavaScript/_WEB",
@@ -252,7 +239,6 @@
     "Programacion/Python/Analisis de datos/Pandas/img/Untitled (40).png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105142.png",
     "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105108.png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105030.png",
     "Sin título.canvas",
     "TypeScript/Sin título.canvas",
     "epico/Sin título.canvas",
