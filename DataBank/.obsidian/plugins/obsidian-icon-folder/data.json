@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiPaint",
+      "TiBrandBlender",
       "RiImage2Fill",
       "TiIcons",
-      "TiBrandMongodb",
-      "RiDatabase2Fill",
-      "FasDatabase"
+      "TiBrandMongodb"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,7 +56,6 @@
   },
   "Programacion/Python/Dagster/Topics": "📚",
   "Programacion/Python/Dagster/Dagster_Flow.excalidraw.md": "RiSwordLine",
-  "Idiomas": "TiWorld",
   "-Inicio": "🚪",
   "Proyects": "FabProductHunt",
   "Proyects/History's": "RiBookOpenFill",
@@ -162,8 +161,6 @@
   },
   "Proyects/Redes Sociales": "LiWifi",
   "Proyects/History's/La Sociedad de la Mascara/Errums": "TiError404Off",
-  "Idiomas/English": "RiKakaoTalkFill",
-  "Idiomas/English/The general basic english dictionary.md": "FasBookJournalWhills",
   "Proyects/Redes Sociales/YukiroRaina": "TiCoinYuan",
   "Programacion/JavaScript/Img": "RiFolderImageFill",
   "Programacion/JavaScript/Temas": "TiBooks",
@@ -182,5 +179,10 @@
   "Programacion/JavaScript/_WEB/logger.md": "LiLogIn",
   "Programacion/JavaScript/_WEB/Swagger.md": "IbDocumentText",
   "Programacion/UI_UX": "TiIcons",
-  "Programacion/UI_UX/Img": "RiImage2Fill"
+  "Programacion/UI_UX/Img": "RiImage2Fill",
+  "Art/Blender": "TiBrandBlender",
+  "Language": "TiWorld",
+  "Language/English": "RiKakaoTalkFill",
+  "Language/English/The general basic english dictionary.md": "FasBookJournalWhills",
+  "Art": "TiPaint"
 }
