@@ -1,7 +1,7 @@
 {
   "livePreview": true,
   "vimMode": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showRibbon": true,
   "showInlineTitle": true,
   "spellcheck": false

@@ -2,4 +2,7 @@
 
 # [[Numpy]]
 
+
+
+
 #programationTopic

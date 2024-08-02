@@ -13,7 +13,12 @@
 # <font color="#c00000">Limpieza de datos</font>
 
 - ❓[[Datos faltantes]]
-- 🗑️ [[Eliminar]]
+- 🗑️ Eliminar
+	- <font color="#d99694">Metodos</font>
+		- [[Eliminar filas con drop]]
+		- [[Metodo pop]]
+		- [[Metodo drop (Filas y columnas)]]
+		- [[Metodo del (Columnas)]]
 
 # <font color="#ffff00">Filtrado</font>
 

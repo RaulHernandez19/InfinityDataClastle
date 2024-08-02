@@ -8,7 +8,7 @@ tags:
 [[Python]]
 [[GitHub]]
 [[Programacion/JavaScript/JavaScript]]
-
+[[TypeScript]]
 [[DataBase]]
 
 [[UI_UX]]

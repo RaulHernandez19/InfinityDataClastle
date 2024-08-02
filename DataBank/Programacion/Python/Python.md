@@ -11,6 +11,8 @@ cssclasses: []
 
 - ### [[Basic]]
 - ### [[Lambda]]
+- ### [[RegEx-Python]]
+
 ### 🧵Threads and multiprocesing
 
 #### [[ThreadPoolExecutor]]

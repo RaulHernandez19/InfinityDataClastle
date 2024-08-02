@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91d20223c0da88a6",
+            "id": "18f3781a3887e856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Python/Dagster/Dagster.md",
+                "file": "Programacion/Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/DataFrame.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,20 @@
             }
           },
           {
-            "id": "c052db5f453534fd",
+            "id": "7b32b2076d33a3a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bd8ad4c90e11a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Python/_Topics/RegEx-Python.md",
+                "file": "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 403
   },
   "right": {
     "id": "a2a51b5258a3c8eb",
@@ -124,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Python/_Topics/RegEx-Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Python/_Topics/RegEx-Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programacion/Python/_Topics/RegEx-Python.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -190,40 +194,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c052db5f453534fd",
+  "active": "7b32b2076d33a3a4",
   "lastOpenFiles": [
-    "Programacion/Python/_Topics/ThreadPoolExecutor.md",
-    "Programacion/Python/_Topics/RegEx-Python.md",
-    "Programacion/Python/_Topics/Lambda.md",
-    "Programacion/Python/_Topics/Basic.md",
-    "Programacion/Python/Dagster/Topics/Ops/Ops.md",
-    "Programacion/UI_UX/UI_UX.md",
+    "Eliminar.md",
+    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/DataFrame.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/Exportacion.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/1.Carga de datos/DataFrame/Creacion.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Eliminar filas con drop.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Eliminar/Eliminar.md",
     "Programacion/Python/Dagster/Dagster.md",
-    "Programacion/Programacion.md",
-    "Proyects/Proyects.md",
-    "-Inicio/-Inicio.md",
-    "Language/English/English.md",
-    "Programacion/UI_UX/Img/Pasted image 20240730115411.png",
     "Programacion/Python/Analisis de datos/Analisis de datos.md",
-    "Art/Sin título.md",
+    "Programacion/Python/Python.md",
+    "Programacion/Python/Analisis de datos/Pandas/Ejercicios/Random excercises.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/3.Limpieza de datos/Datos faltantes.md",
+    "Programacion/JavaScript/npm.md",
+    "Programacion/JavaScript/JavaScript.md",
+    "Programacion/Angular/Angular.md",
+    "Programacion/TypeScript/Apartados/Clases.md",
+    "Programacion/TypeScript/TypeScript.md",
+    "Programacion/Programacion.md",
+    "Programacion/JavaScript/Temas/Read Path's and Files.md",
+    "Programacion/JavaScript/Temas/Async.md",
+    "Programacion/JavaScript/Temas/Promise.md",
+    "Programacion/JavaScript/Temas/Regex.md",
+    "Programacion/JavaScript/_WEB/_WEB.md",
+    "Programacion/Python/Analisis de datos/Pandas/Temas/1.Carga de datos/Abrir.md",
+    "Programacion/Python/Analisis de datos/Pandas/Ejercicios/Partido de futbol.md",
+    "Programacion/Python/Analisis de datos/Pandas/Ejercicios/Ejercicios.md",
+    "Programacion/UI_UX/Img/Pasted image 20240730115411.png",
     "Art/Blender",
     "Art",
-    "Programacion/Python/Analisis de datos/Numpy/Numpy.md",
-    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
-    "Programacion/DataBase/MongoDB/MongoDB.md",
-    "Programacion/DataBase/MongoDB/JavaScript.md",
-    "Programacion/DataBase/DataBase.md",
     "Pasted image 20240730135743.png",
-    "Programacion/Python/Python.md",
     "Programacion/UI_UX/Img",
     "Programacion/UI_UX",
-    "Programacion/Angular/Angular.md",
-    "Programacion/JavaScript/JavaScript.md",
-    "Programacion/GitHub/GitHub.md",
-    "Programacion/Python/Analisis de datos/Pandas/Ejercicios/Random excercises.md",
-    "Programacion/Angular/Temas/Temas.md",
-    "Programacion/Angular/Temas/Bloques fundamentales.md",
-    "Programacion/Angular/TypeScript/TypeScript.md",
     "Programacion/DataBase/MongoDB",
     "Programacion/DataBase",
     "Programacion/JavaScript/_WEB",

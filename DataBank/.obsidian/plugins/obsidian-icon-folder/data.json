@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBoxArchive",
+      "TiTransferVertical",
+      "RiFilterFill",
       "TiPaint",
-      "TiBrandBlender",
-      "RiImage2Fill",
-      "TiIcons",
-      "TiBrandMongodb"
+      "TiBrandBlender"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,6 @@
   "Programacion/Angular": "FabAngular",
   "Programacion/Angular/img": "FasImage",
   "Programacion/Angular/Temas": "LiBookType",
-  "Programacion/Angular/TypeScript": "TiBrandTypescript",
   "Programacion/Python/Analisis de datos/Pandas": "🐼",
   "Programacion/Python/Analisis de datos/Numpy": "TiNumber",
   "Programacion/Python/Analisis de datos/Pandas/img": "FasImage",
@@ -49,13 +48,6 @@
   "Programacion/Python/Analisis de datos": "RiTableFill",
   "Programacion/Python/Analisis de datos/Pandas/Temas/9.Funciones extra/Time": "RiTimeFill",
   "Programacion/Python/Virtual enviroment.md": "LiAppWindow",
-  "Programacion/Python/Dagster": "🦑",
-  "Programacion/Python/Dagster/Install and running.md": {
-    "iconName": "RiInstallFill",
-    "iconColor": "#44ee66"
-  },
-  "Programacion/Python/Dagster/Topics": "📚",
-  "Programacion/Python/Dagster/Dagster_Flow.excalidraw.md": "RiSwordLine",
   "-Inicio": "🚪",
   "Proyects": "FabProductHunt",
   "Proyects/History's": "RiBookOpenFill",
@@ -168,8 +160,6 @@
   "Programacion/JavaScript/Temas/Promise.md": "FasHandshake",
   "Programacion/JavaScript/Temas/Regex.md": "TiLetterSpacing",
   "Programacion/Python/Poetry.md": "LiPackage",
-  "Programacion/Python/Dagster/Topics/Config": "⚙",
-  "Programacion/Python/Dagster/Topics/Graph": "📊",
   "Programacion/Python/_Topics": "📚",
   "Programacion/DataBase": "RiDatabase2Fill",
   "Programacion/DataBase/MongoDB": "TiBrandMongodb",
@@ -184,5 +174,18 @@
   "Language": "TiWorld",
   "Language/English": "RiKakaoTalkFill",
   "Language/English/The general basic english dictionary.md": "FasBookJournalWhills",
-  "Art": "TiPaint"
+  "Art": "TiPaint",
+  "Programacion/Python/_Topics/RegEx-Python.md": "RiFilterFill",
+  "Programacion/Python/Dagster": "🦑",
+  "Programacion/Python/Dagster/Dagster_Flow.excalidraw.md": "RiSwordLine",
+  "Programacion/Python/Dagster/Install and running.md": {
+    "iconName": "RiInstallFill",
+    "iconColor": "#44ee66"
+  },
+  "Programacion/Python/Dagster/Topics": "📚",
+  "Programacion/Python/Dagster/Topics/Config": "⚙",
+  "Programacion/Python/Dagster/Topics/Graph": "📊",
+  "Programacion/JavaScript/Temas/Async.md": "TiTransferVertical",
+  "Programacion/TypeScript": "TiBrandTypescript",
+  "Programacion/JavaScript/npm.md": "FasBoxArchive"
 }

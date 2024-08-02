@@ -7,3 +7,4 @@ Un DataFrame contiene dos índices, uno para las filas y otro para las columnas,
 🔨 [[Creacion]]
 
 📤 [[Exportacion]]
+

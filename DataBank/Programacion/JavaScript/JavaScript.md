@@ -13,3 +13,5 @@ tags:
 - [[Promise]]
 - [[Read Path's and Files]]
 - [[Regex]]
+- [[Async]]
+[[npm]]

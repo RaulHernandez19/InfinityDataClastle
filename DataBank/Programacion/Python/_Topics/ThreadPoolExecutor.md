@@ -1,8 +1,10 @@
-Importacion: `from concurrent.futures import ThreadPoolExecutor.`
+```python
+from concurrent.futures import ThreadPoolExecutor
+```
 
 `ThreadPoolExecutor` es una clase en el módulo `concurrent.futures` de Python que permite la ejecución de operaciones en paralelo utilizando hilos. Aquí te explico sus métodos más comunes:
 
-# Submit
+## Submit
 
 (func, *args, **kwargs)**: Este método agenda la función `func` para ser ejecutada y retorna un objeto `Future`. Aquí tienes un ejemplo:
 
@@ -17,7 +19,7 @@ with ThreadPoolExecutor() as executor:
     print(futuro.result())  # Imprime: 10
 ```
 
-# Map
+## Map
 
 **map(func, *iterables, timeout=None, chunksize=1)**: Este método es similar a la función `map()` de Python, pero las tareas se ejecutan en paralelo. Aquí tienes un ejemplo:
 
