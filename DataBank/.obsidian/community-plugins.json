@@ -16,9 +16,9 @@
   "dataview",
   "contribution-graph",
   "journals",
-  "obsidian-kanban",
   "folder-note-plugin",
   "obsidian-file-color",
   "folder-notes",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "vault-size-history"
 ]

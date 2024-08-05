@@ -1,0 +1,11 @@
+#### Figure List
+- '`rect`' (default) - rectangle.
+- '`ellipse`'
+- '`roundRect`' - round rectangle.
+- '`triangle`'
+- '`line`' - draw line.
+- '`cloud`'
+- '`hexagon`'
+- '`flowChartInputOutput`'
+- '`wedgeEllipseCallout`'
+- (much more shapes already supported

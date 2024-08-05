@@ -12,6 +12,7 @@ cssclasses: []
 - ### [[Basic]]
 - ### [[Lambda]]
 - ### [[RegEx-Python]]
+- ### [[Data_Structure]]
 
 ### 🧵Threads and multiprocesing
 

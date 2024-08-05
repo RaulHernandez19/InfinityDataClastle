@@ -14,4 +14,7 @@ tags:
 - [[Read Path's and Files]]
 - [[Regex]]
 - [[Async]]
+- [[Officegen]]
+- [[PptxGenJS]]
+- [[ChartJsNodeCanvas]]
 [[npm]]
