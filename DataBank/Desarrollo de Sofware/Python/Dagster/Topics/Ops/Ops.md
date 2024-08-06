@@ -26,7 +26,7 @@ def get_testers(context: OpExecutionContext, config: testers_options, platform):
 
 ## <font color="#92cddc">Elementos dentro de la logica:</font>
 ### <font color="#b2a2c7">Yield (Salida)</font>
-![[Yield#^14d156]]
+![[Yield-Dagster#^14d156]]
 
 ### <font color="#b2a2c7">Context(Mensaje)</font>
 ![[context.log#^08ee9d]]

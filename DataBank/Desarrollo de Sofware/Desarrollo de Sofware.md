@@ -7,7 +7,7 @@ tags:
 [[Angular]]
 [[Python]]
 [[GitHub]]
-[[Programacion/JavaScript/JavaScript]]
+[[Desarrollo de Sofware/JavaScript/JavaScript|JavaScript]]
 [[TypeScript]]
 [[DataBase]]
 

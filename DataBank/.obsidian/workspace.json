@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6521bc43d7a22bd2",
+            "id": "cd008065be43882c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Python/_Topics/Data_Structure/Diccionarios.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/range().md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,20 +21,27 @@
             }
           },
           {
-            "id": "8591698feb18d46f",
+            "id": "6521bc43d7a22bd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Python/_Topics/Data_Structure/Tuplas y secuencias.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/range().md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "40e914a6c8a5a011",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 319
   },
   "right": {
     "id": "a2a51b5258a3c8eb",
@@ -124,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Python/_Topics/Data_Structure/Tuplas y secuencias.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/range().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Python/_Topics/Data_Structure/Tuplas y secuencias.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/range().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Python/_Topics/Data_Structure/Tuplas y secuencias.md"
+                "file": "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/range().md"
               }
             }
           }
@@ -192,56 +199,56 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "8591698feb18d46f",
+  "active": "cd008065be43882c",
   "lastOpenFiles": [
-    "Programacion/Python/_Topics/Data_Structure/Diccionarios.md",
-    "Programacion/Python/_Topics/Variable_Type/Variable_Type.md",
-    "Programacion/Python/_Topics/Data_Structure/Desempaquetado.md",
-    "Programacion/Python/_Topics/Data_Structure/Conjuntos.md",
-    "Programacion/Python/_Topics/Data_Structure/Tuplas y secuencias.md",
-    "Programacion/Python/Python.md",
-    "Programacion/Python/_Topics/Data_Structure/Data_Structure.md",
-    "Programacion/Python/_Topics/Variable_Type",
-    "Programacion/Python/Analisis de datos/Pandas/Pandas.md",
-    "Programacion/Python/Analisis de datos/Numpy/Numpy.md",
-    "Programacion/Python/Analisis de datos/Analisis de datos.md",
-    "Programacion/Python/_Topics/Basic.md",
-    "Programacion/Python/_Topics/Data_Structure",
-    "Programacion/Python/_Topics/Lambda.md",
-    "Programacion/Python/_Topics/ThreadPoolExecutor.md",
-    "Programacion/JavaScript/JavaScript.md",
-    "sdsdssds/Characters/Pepe.md",
-    "sdsdssds/sdsdssds.md",
-    "sdsdssds/Truths.md",
+    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/len().md",
+    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/6-.Funciones incorporadas.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
+    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas",
+    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/range().md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/If.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/Helpers",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/3-.Compound_statements.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/While.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/4-.Simple statements.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/continue.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/break.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/raise.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/assert.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/yield.md",
+    "Desarrollo de Sofware/Python/Python.md",
+    "Desarrollo de Sofware/Desarrollo de Sofware.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/return.md",
+    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/2-.Data_Structure.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/del.md",
+    "[[2-.Data_Structure.md",
+    "Desarrollo de Sofware/Python/_Topics/1-.Variable_Type/1-.Variable_Type.md",
+    "-Inicio/-Inicio.md",
+    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Conjuntos.md",
+    "Language/English/New words.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/pass.md",
+    "Desarrollo de Sofware/Python/Dagster/Topics/Ops/Yield-Dagster.md",
+    "Desarrollo de Sofware/Python/Dagster/Dagster.md",
+    "Language/English/Sin nombre",
+    "Desarrollo de Sofware/Python/_Topics/5-.Expresiones",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements",
+    "Desarrollo de Sofware/Python/_Topics/1-.Variable_Type",
+    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure",
     "sdsdssds/Lore",
     "sdsdssds/Factions",
-    "sdsdssds/Locations",
-    "sdsdssds/Journals/Session 0.md",
-    "sdsdssds/Journals",
-    "sdsdssds/Progress",
-    "sdsdssds/Clocks",
-    "sdsdssds/Characters",
-    "Programacion/JavaScript/Topics/PptxGenJS/Charts.md",
-    "sdsdssds",
-    "Proyects/Untitled Kanban.md",
-    "Proyects/Redes Sociales/Redes Sociales.md",
-    "Proyects/Proyects.md",
-    "Programacion/JavaScript/Topics/Regex.md",
-    "Excalidraw/Drawing 2024-08-05 14.25.34.excalidraw.md",
-    "Programacion/JavaScript/Topics/Read Path's and Files.md",
-    "Programacion/JavaScript/Topics/Async.md",
-    "Programacion/UI_UX/Img/Pasted image 20240730115411.png",
+    "Desarrollo de Sofware/UI_UX/Img/Pasted image 20240730115411.png",
     "Pasted image 20240730135743.png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Pasted Image 20240717163646_419.png",
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted Image 20240717163646_419.png",
     "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
     "Programacion/Python/Dagster/Flujo_Dagster.canvas",
-    "Programacion/Angular/img/Pasted image 20240703110504.png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Untitled (26).png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703100414.png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105153.png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Untitled (40).png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105142.png",
-    "Programacion/Python/Analisis de datos/Pandas/img/Pasted image 20240703105108.png",
+    "Desarrollo de Sofware/Angular/img/Pasted image 20240703110504.png",
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Untitled (26).png",
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted image 20240703100414.png",
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted image 20240703105153.png",
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Untitled (40).png",
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted image 20240703105142.png",
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted image 20240703105108.png",
     "Sin título.canvas",
     "TypeScript/Sin título.canvas",
     "epico/Sin título.canvas",
