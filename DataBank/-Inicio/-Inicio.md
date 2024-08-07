@@ -1,4 +1,7 @@
 ---
+banner: "![[Pasted image 20240703110504.png]]"
+---
+---
 cssclasses:
   - dashboard
 banner: "![[Pasted image 20240703110504.png]]"
