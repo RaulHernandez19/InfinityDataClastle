@@ -25,7 +25,7 @@ cssclasses: []
 [Referencia del Lenguaje Python — documentación de Python - 3.12.4](https://docs.python.org/es/3/reference/index.html)
 [El tutorial de Python — documentación de Python - 3.12.4](https://docs.python.org/es/3/tutorial/index.html)
 [La biblioteca estándar de Python — documentación de Python - 3.12.4](https://docs.python.org/es/3/library/index.html)
-https://docs.python.org/es/3/library/functions.html#zip
+[zip](https://docs.python.org/es/3/library/functions.html#zip)
 
 
 

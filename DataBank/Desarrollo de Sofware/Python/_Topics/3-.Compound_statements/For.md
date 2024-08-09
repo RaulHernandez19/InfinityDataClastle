@@ -21,9 +21,8 @@ edades = [23, 35, 19, 28]
 for nombre, edad in zip(nombres, edades):
     if edad > 25:
         print(f"{nombre} tiene más de 25 años.")
-
 ```
 
-#### Uso con enumerate()
+
 
 

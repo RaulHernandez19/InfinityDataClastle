@@ -1,1 +1,2 @@
 Una sentencia match recibe una expresión y compara su valor con patrones sucesivos dados en uno o más bloques case. Esto es similar a grandes rasgos con una sentencia switch en C, Java o JavaScript (y muchos otros lenguajes) pero es más similar a la comparación de patrones en lenguajes como Rust o Haskell. Sólo se ejecuta el primer patrón que coincide y también es capaz de extraer componentes (elementos de una secuencia o atributos de un objeto) de un valor y ponerlos en variables.
+

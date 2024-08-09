@@ -77,15 +77,7 @@
       "color": "5rnYAPTPBKNyhM2bvpwSz"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/Img",
-      "color": "tWYXOkE4g17qnQpCqDkOC"
-    },
-    {
       "path": "Desarrollo de Sofware/JavaScript/_WEB/API's",
-      "color": "v27bdrzU1TmWuYxLgVaR1"
-    },
-    {
-      "path": "Desarrollo de Sofware/JavaScript/_WEB",
       "color": "v27bdrzU1TmWuYxLgVaR1"
     },
     {
@@ -97,20 +89,24 @@
       "color": "tWYXOkE4g17qnQpCqDkOC"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/Topics/Officegen/Powepoint",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/Officegen/Powepoint",
       "color": "A4Mjo9Q8LVFOcaKR6jcoG"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/Topics/Officegen/Excel",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/Officegen/Excel",
       "color": "v27bdrzU1TmWuYxLgVaR1"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/Topics/Officegen/Word",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/Officegen/Word",
       "color": "v3Nc6AVc3xtV-jdHV8wPf"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/Topics/PptxGenJS/_Slides.md",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/PptxGenJS/_Slides.md",
       "color": "A4Mjo9Q8LVFOcaKR6jcoG"
+    },
+    {
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators/Promise-js",
+      "color": "tWYXOkE4g17qnQpCqDkOC"
     }
   ]
 }
