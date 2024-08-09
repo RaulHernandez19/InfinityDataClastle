@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpenText",
+      "RiRunLine",
       "FasQuestion",
       "FabHtml5",
-      "FabCss3Alt",
-      "LiGanttChartSquare",
-      "FasHandshake"
+      "FabCss3Alt"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -214,5 +214,7 @@
   "Desarrollo de Sofware/JavaScript/Topics/ChartJsNodeCanvas.md": "LiGanttChartSquare",
   "Desarrollo de Sofware/CSS": "FabCss3Alt",
   "Desarrollo de Sofware/HTML": "FabHtml5",
-  "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/If.md": "FasQuestion"
+  "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/If.md": "FasQuestion",
+  "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/Try.md": "RiRunLine",
+  "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/With.md": "LiBookOpenText"
 }

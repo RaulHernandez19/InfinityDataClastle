@@ -11,4 +11,19 @@ La sentencia [[break]] ejecutada en la primera suite termina el bucle sin ejecut
 
 ### For avanzado
 
-#### Cominacion con zip()
+#### Uso con [[zip()]]
+
+Puedes usar `zip()` dentro de un bucle `for` y agregar una condición para realizar acciones específicas basadas en el contenido de los iterables.
+```python
+nombres = ["Ana", "Luis", "Juan", "Marta"]
+edades = [23, 35, 19, 28]
+
+for nombre, edad in zip(nombres, edades):
+    if edad > 25:
+        print(f"{nombre} tiene más de 25 años.")
+
+```
+
+#### Uso con enumerate()
+
+

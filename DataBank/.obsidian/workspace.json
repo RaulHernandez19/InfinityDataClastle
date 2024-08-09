@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de Sofware/HTML/HTML.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,12 +37,24 @@
             "id": "40e914a6c8a5a011",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/zip().md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2d86f11225c42a6",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md"
+                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md"
               }
             }
           }
@@ -185,26 +197,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "graph:Abrir vista gráfica": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "vault-size-history:Vault size history": false
     }
   },
-  "active": "6521bc43d7a22bd2",
+  "active": "cd008065be43882c",
   "lastOpenFiles": [
-    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/range().md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/While.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/With.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
     "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/3-.Compound_statements.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/Try.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/While.md",
+    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/zip().md",
+    "Desarrollo de Sofware/Python/Python.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
     "Desarrollo de Sofware/HTML/HTML.md",
+    "Desarrollo de Sofware/UI_UX/UI_UX.md",
+    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/range().md",
     "Desarrollo de Sofware/CSS/CSS.md",
     "Desarrollo de Sofware/JavaScript/Topics/ChartJsNodeCanvas.md",
     "Desarrollo de Sofware/CSS",
@@ -222,14 +240,8 @@
     "Desarrollo de Sofware/Desarrollo de Sofware.md",
     "Proyects/Proyects.md",
     "[[2-.Data_Structure.md",
-    "Style Comands.md",
-    "Desarrollo de Sofware/Git/Introduccion-GitHub.md",
-    "Desarrollo de Sofware/Git/Git.md",
     "Desarrollo de Sofware/Git",
-    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/len().md",
-    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/6-.Funciones incorporadas.md",
     "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/If.md",
     "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/Helpers",
     "Language/English/Sin nombre",
     "Desarrollo de Sofware/Python/_Topics/5-.Expresiones",
