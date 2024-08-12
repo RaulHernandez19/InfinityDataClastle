@@ -15,8 +15,9 @@
 
 ##### [[class-js]]
 ##### [[class-js]]
-
-##### [[Arrow_Function]]
+##### [[AsyncTopic]]
+##### [[anonymousFunction]]
+###### [[Arrow_Function]]
 ##### [[module.exports]]
 
 ##### [[this.-js]]

@@ -11,7 +11,6 @@ cssclasses: []
 - [[4-.Simple statements]]
 - [[5-.Expresiones]]
 
-
 # 📊[[Analisis de datos]]
 
 # 🦑[[Dagster]]

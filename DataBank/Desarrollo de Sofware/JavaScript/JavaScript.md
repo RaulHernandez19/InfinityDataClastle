@@ -5,6 +5,7 @@ tags:
 # Topics
 
 [[Statements and Declarations]]
+[[AsyncTopic]]
 
 - #### [[_WEB]]
 	- [[HTTP_Js]]

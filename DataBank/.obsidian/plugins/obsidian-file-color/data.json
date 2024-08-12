@@ -61,6 +61,11 @@
       "id": "v3Nc6AVc3xtV-jdHV8wPf",
       "name": "Azulclarito",
       "value": "#57c1db"
+    },
+    {
+      "id": "Gfc7Z2cO9_FOan--C2d3D",
+      "name": "folderColor",
+      "value": "#dfd072"
     }
   ],
   "fileColors": [
@@ -105,8 +110,28 @@
       "color": "A4Mjo9Q8LVFOcaKR6jcoG"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators/Promise-js",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/async_await/examples",
+      "color": "Gfc7Z2cO9_FOan--C2d3D"
+    },
+    {
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/async_await",
       "color": "tWYXOkE4g17qnQpCqDkOC"
+    },
+    {
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/callbacks",
+      "color": "v27bdrzU1TmWuYxLgVaR1"
+    },
+    {
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()",
+      "color": "A4Mjo9Q8LVFOcaKR6jcoG"
+    },
+    {
+      "path": "Desarrollo de Sofware/JavaScript/_Topics",
+      "color": "tWYXOkE4g17qnQpCqDkOC"
+    },
+    {
+      "path": "Desarrollo de Sofware/JavaScript/_WEB",
+      "color": "v27bdrzU1TmWuYxLgVaR1"
     }
   ]
 }

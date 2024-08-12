@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa3c2aa9bc28e8ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo de Sofware/CSS/CSS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7d93918959069244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators/Promise-js/Promise-js.md",
+                "file": "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/anonymousFunction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "125b3927979768e1",
+            "id": "495ae79019bfd725",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Statements and Declarations.md",
+                "file": "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()/returnNewPromise().md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,15 +34,20 @@
             }
           },
           {
-            "id": "115428e5c4d9e4b5",
+            "id": "851ecc136d29d1a7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de Sofware/Python/Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#languajeTopic",
+                "query": "tag:#character",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desarrollo de Sofware/Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desarrollo de Sofware/Python/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desarrollo de Sofware/Python/Python.md"
+              }
             }
           }
         ],
@@ -207,44 +203,46 @@
       "vault-size-history:Vault size history": false
     }
   },
-  "active": "115428e5c4d9e4b5",
+  "active": "851ecc136d29d1a7",
   "lastOpenFiles": [
-    "Desarrollo de Sofware/JavaScript/JavaScript.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Statements and Declarations.md",
-    "Desarrollo de Sofware/CSS/CSS.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Promise.md",
-    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/len().md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/async function-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators/Expressions & operators.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators/Promise-js/Promise-js.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/3-.Compound_statements.md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/4-.Simple statements.md",
-    "Desarrollo de Sofware/Python/_Topics/5-.Expresiones/5-.Expresiones.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/function-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators/Promise-js",
-    "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators",
+    "Desarrollo de Sofware/Python/_Topics/ThreadPoolExecutor.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/anonymousFunction.md",
     "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/Arrow_Function.md",
-    "Desarrollo de Sofware/TypeScript/TypeScript.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/this.-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/helpers",
+    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Statements and Declarations.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/async_await/async_await.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()/returnNewPromise().md",
     "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/class-js.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/this.-js.md",
     "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/module.exports.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Flow Control/try...catch-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Flow Control/if...else-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Flow Control/throw.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Flow Control/continue-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Iterators/labels.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Iterators/for-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Iterators/while-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Flow Control/break-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Flow Control/swich-js.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators/Expressions & operators.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/UtilsTopics/Read Path's and Files.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/UtilsTopics",
+    "Desarrollo de Sofware/JavaScript/_Topics/UtilsTopics/ChartJsNodeCanvas.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/Promise.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/Async.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/AsyncTopic.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/function-js.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/async function-js.md",
+    "Desarrollo de Sofware/JavaScript/_WEB/_WEB.md",
+    "Desarrollo de Sofware/JavaScript/_WEB/HTTP_Js.md",
+    "Desarrollo de Sofware/JavaScript/_WEB/logger.md",
+    "Desarrollo de Sofware/JavaScript/_WEB/Swagger.md",
+    "Desarrollo de Sofware/JavaScript/_WEB/API's/API's.md",
+    "Desarrollo de Sofware/DataBase/MongoDB/JavaScript.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()/promise().md",
+    "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/Officegen/Officegen.md",
+    "Desarrollo de Sofware/JavaScript/JavaScript.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/async_await/examples",
+    "Pasted image 20240812135207.png",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()/DiagramaPromises.png",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/callbacks",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/async_await",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()",
+    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic",
+    "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators",
+    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes/helpers",
     "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Others",
     "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Iterators",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Functions and classes",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Declarations",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations/Flow Control",
-    "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens",
-    "Desarrollo de Sofware/JavaScript/_Topics/Statements and Declarations",
     "Desarrollo de Sofware/UI_UX/Img/Pasted image 20240730115411.png",
     "Pasted image 20240730135743.png",
     "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted Image 20240717163646_419.png",
@@ -255,8 +253,6 @@
     "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted image 20240703100414.png",
     "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted image 20240703105153.png",
     "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Untitled (40).png",
-    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted image 20240703105142.png",
-    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted image 20240703105108.png",
     "Sin título.canvas",
     "TypeScript/Sin título.canvas",
     "epico/Sin título.canvas",
