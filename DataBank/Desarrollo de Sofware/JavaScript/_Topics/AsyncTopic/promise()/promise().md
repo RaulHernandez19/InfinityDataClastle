@@ -48,6 +48,8 @@ promesa
 ### [[returnNewPromise()]]
 ![[returnNewPromise()#^587cfa]]
 
+### [[promisificacion]]
+![[promisificacion#^2cdedc]]
 ### <font color="#fdeada">methods</font>
 
 #### 1-.Promise.all([])
@@ -85,4 +87,17 @@ Promise.reject('error').catch(error => console.log(error)); // 'error'
 Devuelve una promesa que es aceptada con la razon dada.
 ```javascript
 Promise.resolve(1).then(value => console.log(value)); // 1
+```
+
+#### 7-.Promise.any()
+ Toma un iterable de promesas (como un array) y devuelve una sola promesa. Esta promesa se cumple tan pronto como cualquiera de las promesas del iterable se cumpla. Si todas las promesas se rechazan, Promise.any() se rechaza con un AggregateError que contiene un array de todas las razones de rechazo.
+Es útil cuando necesitas que al menos una de varias operaciones asíncronas se complete con éxito. Por ejemplo, podrías usarlo para intentar varias fuentes de datos y tomar la primera que responda correctamente.
+```javascript
+const p1 = new Promise((resolve, reject) => setTimeout(reject, 100, "Error en p1"));
+const p2 = new Promise((resolve) => setTimeout(resolve, 200, "p2 resuelta"));
+const p3 = new Promise((resolve) => setTimeout(resolve, 300, "p3 resuelta"));
+
+Promise.any([p1, p2, p3])
+  .then((value) => console.log(value)) // "p2 resuelta"
+  .catch((error) => console.log(error.errors)); // Si todas las promesas se rechazan
 ```

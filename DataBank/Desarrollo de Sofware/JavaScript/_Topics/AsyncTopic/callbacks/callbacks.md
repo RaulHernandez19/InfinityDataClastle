@@ -1,5 +1,6 @@
-El callback es la madre de las funciones asincronas
+El callback es la madre de las funciones asincronas, es la forma de llamar al llamado de una funcion que usada como valor. 
 
+Aqui un ejemplo poco practico, para ejemplos mejores en [[function-js]]
 ```js
 function requestHandler(req, res){
 	User.fundById(req.userId, function(err, user)){ 

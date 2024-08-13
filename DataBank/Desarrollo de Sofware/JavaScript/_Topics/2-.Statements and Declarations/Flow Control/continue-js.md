@@ -1,7 +1,7 @@
 
 #### Interacciones con iteraciones
 
-##### In a [[while-js]] or [[do..while-js]] loop, it jumps back to the condition.
+##### In a [[while-js]] loop, it jumps back to the condition.
 ```javascript
 let i = 0;
 while (i < 5) {
@@ -17,6 +17,9 @@ for (let j = 0; j < 5; j++) {
     console.log(j);  // Imprime 0, 1, 2, 4
 }
 ```
+
+^2cb0ad
+
 ##### In a [[for...in]], [[for...of,]] or [[for await...of ]]loop, it jumps to the next iteration.
 ```javascript
 let array = [1, 2, 3, 4, 5];

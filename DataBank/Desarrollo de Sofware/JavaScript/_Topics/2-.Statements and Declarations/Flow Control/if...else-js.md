@@ -7,5 +7,6 @@ if (x > 50) {
 } else {
   /* do something */
 }
-
 ```
+
+Sin embargo va muy lugado con [[conditionalOperatorQuestion]]

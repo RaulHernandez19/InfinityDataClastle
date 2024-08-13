@@ -1,6 +1,6 @@
-Se utiliza para hacer referencia al objeto que está llamando a la función o al método. Este objeto a veces se llama contexto
+Se utiliza para hacer referencia a un [[class-js]] o [[_Objeto-js]]que está llamando a la función o al método. Este objeto a veces se llama contexto
 ```javascript
-lass Rectangle {
+class Rectangle {
   constructor(height, width) {
     this.height = height;
     this.width = width;
