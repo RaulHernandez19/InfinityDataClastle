@@ -1,4 +1,4 @@
-La sintaxis de `new Promise(resolve, reject)` en JavaScript se utiliza para crear una nueva Promesa ^587cfa
+La sintaxis de `new Promise(resolve, reject)` en JavaScript se utiliza para crear una nueva Promesa con su resolve y reject propio. ^587cfa
 
 ```javascript
 let promesa = new Promise((resolve, reject) => {

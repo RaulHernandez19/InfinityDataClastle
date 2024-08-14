@@ -45,11 +45,27 @@ promesa
     .finally(() => console.log('Esto se ejecuta independientemente del resultado')); // Se ejecuta independientemente del resultado
 ```
 
+### New Promise
+Una `Promise` al ser un objeto que representa la eventual finalización (o falla) de una operación asíncrona y su valor resultante. Crear una nueva promesa (`new Promise`) implica definir una operación asíncrona que se resolverá o rechazará en algún momento en el futuro.
+```javascript
+new Promise((resolve, reject) => {
+    // Operación asíncrona
+});
+```
+Pero tambien puede hacerse para funciones que requieran tiempo.
+```javascript
+await new Promise(resolve => setTimeout(resolve, 1000));
+```
+
+
 ### [[returnNewPromise()]]
 ![[returnNewPromise()#^587cfa]]
 
 ### [[promisificacion]]
 ![[promisificacion#^2cdedc]]
+
+
+
 ### <font color="#fdeada">methods</font>
 
 #### 1-.Promise.all([])

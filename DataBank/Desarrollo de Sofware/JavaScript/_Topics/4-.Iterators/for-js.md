@@ -18,6 +18,9 @@ for (let clave in objeto) {
 ```
 
 ### Bucle `for...of`
+
+^daa6b6
+
 Se usa para iterar sobre elementos de objetos iterables como [[array-js]], [[map-js]], etc.
 ```javascript
 let array = [10, 20, 30];

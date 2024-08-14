@@ -53,3 +53,60 @@ module.exports = controller;
 //Import
 const controller = require("path)
 ```
+
+### Export before declarations
+Esto se hace para exportar cosas directamente cuando son creadas, util por si se quiere exportar estrcuturas.
+```js
+// export an array
+export let months = ['Jan', 'Feb', 'Mar','Apr', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+// export a constant
+export const MODULES_BECAME_STANDARD_YEAR = 2015;
+
+// export a class
+export class User {
+  constructor(name) {
+    this.name = name;
+  }
+}
+```
+
+### Export apart from declarations
+```js
+function sayHi(user) {
+  alert(`Hello, ${user}!`);
+}
+
+function sayBye(user) {
+  alert(`Bye, ${user}!`);
+}
+
+export {sayHi, sayBye};
+```
+
+### Export default
+se utiliza para exportar una función, objeto o clase como el valor por defecto desde un módulo. Esto es especialmente útil cuando trabajas con múltiples módulos en un proyecto de desarrollo web, ya que facilita la organización y reutilización del código.
+```js
+export default class User { // just add "default"
+  constructor(name) {
+    this.name = name;
+  }
+}
+///
+import User from './user.js'; // not {User}, just User
+
+new User('John');
+```
+
+### Export and Export "as"
+
+```js
+export {sayHi as hi, sayBye as bye};
+///
+import * as say from './say.js';
+
+say.hi('John'); // Hello, John!
+say.bye('John'); // Bye, John!
+```
+
+### Dynamic Imports

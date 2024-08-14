@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "java",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -85,7 +85,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 3,
   "nodeSizeMultiplier": 1.16455301455301,
@@ -95,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 0.795218295218295,
   "linkDistance": 250,
-  "scale": 0.16348373264446914,
+  "scale": 0.32133643906585907,
   "close": false
 }

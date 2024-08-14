@@ -12,6 +12,7 @@ Largest Column: standard
 
 ## <font color="#d99694">Datatype</font>
 - [[PrimitiveData]]
+- [[_Objeto-js]]
 - Structure Data
 	- [[array-js]]
 	- [[map-js]]
@@ -32,7 +33,7 @@ Largest Column: standard
 ## <font color="#d99694">Functions and classes</font>
 - [[class-js]]
 - [[function-js]]
--  [[AsyncTopic]]
+-  [[6-.AsyncTopic]]
 - [[anonymousFunction]]
 - [[Arrow_Function]]
 - [[module.exports]]
@@ -55,7 +56,7 @@ Largest Column: standard
  - [[swich-js]]
 - [[throw]]
 - [[try...catch-js]]
-- ⏰ [[AsyncTopic]]
+- ⏰ [[6-.AsyncTopic]]
 
 
 --- column-break ---
@@ -64,6 +65,8 @@ Largest Column: standard
 - [[while-js]]
 - [[for-js]]
 - [[labels]]
+- [[Generators]]
+- [[Async iteration and generators]]
 
 
 --- end-multi-column

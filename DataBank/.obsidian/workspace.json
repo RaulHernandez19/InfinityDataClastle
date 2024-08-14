@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1faa74dc50fada64",
+            "id": "d221a713bf67d88e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,15 +21,33 @@
             }
           },
           {
-            "id": "c905ba41bfdcb12b",
+            "id": "1faa74dc50fada64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/returnNewPromise().md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94284100232dd494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/module.exports.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "for...",
+                "query": "new promise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/module.exports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/module.exports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/module.exports.md"
+              }
             }
           }
         ],
@@ -181,46 +203,46 @@
       "vault-size-history:Vault size history": false
     }
   },
-  "active": "c905ba41bfdcb12b",
+  "active": "94284100232dd494",
   "lastOpenFiles": [
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/promise().md",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/returnNewPromise().md",
+    "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/Async iteration and generators.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/6-.AsyncTopic.md",
     "Desarrollo de Sofware/JavaScript/JavaScript.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/Generators.md",
+    "Style Comands.md",
+    "Desarrollo de Sofware/JavaScript/_WEB/_WEB.md",
     "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/_Objeto-js/_Objeto-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/AsyncTopic.md",
     "Desarrollo de Sofware/Python/Python.md",
     "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/2-.Statements and Declarations.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/callbacks/callbacks.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/callbacks/callbacks.md",
     "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/1-.DataType-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Functions and classes/this.-js.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/this.-js.md",
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/assert.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Functions and classes/function-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()/promise().md",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()/promisificacion.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()/returnNewPromise().md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Functions and classes/class-js.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/function-js.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/promisificacion.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/class-js.md",
     "Desarrollo de Sofware/DataBase/MongoDB/JavaScript.md",
     "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/len().md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Iterators/for-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Functions and classes/Arrow_Function.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/for-js.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/Arrow_Function.md",
     "Desarrollo de Sofware/JavaScript/_Topics/Expressions & operators/Expressions & operators.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Functions and classes/anonymousFunction.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Iterators/while-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Iterators/labels.md",
-    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/6-.Funciones incorporadas.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/2-.Statements and Declarations/Functions and classes/module.exports.md",
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/2-.Data_Structure.md",
-    "Desarrollo de Sofware/Python/_Topics/5-.Expresiones/5-.Expresiones.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/anonymousFunction.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/while-js.md",
+    "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/labels.md",
     "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/_Objeto-js",
     "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/StructureData-js/array-js",
     "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/StructureData-js",
     "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js",
     "Desarrollo de Sofware/JavaScript/_Topics/UtilsTopics",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/async_await/examples",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/async_await/examples",
     "Pasted image 20240812135207.png",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()/DiagramaPromises.png",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/callbacks",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/async_await",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic/promise()",
-    "Desarrollo de Sofware/JavaScript/_Topics/AsyncTopic",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/DiagramaPromises.png",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/callbacks",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/async_await",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()",
+    "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic",
     "Desarrollo de Sofware/UI_UX/Img/Pasted image 20240730115411.png",
     "Pasted image 20240730135743.png",
     "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted Image 20240717163646_419.png",
