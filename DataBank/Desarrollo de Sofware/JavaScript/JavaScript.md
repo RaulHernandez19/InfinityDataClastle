@@ -2,7 +2,14 @@
 tags:
   - Lenguaje
 ---
-# JavaScriptLanguage
+# <font color="#fdeada">JavaScriptLanguage</font>
+
+--- start-multi-column: ID_hxsb
+```column-settings
+Number of Columns: 3
+Largest Column: standard
+```
+
 ## <font color="#d99694">Datatype</font>
 - [[PrimitiveData]]
 - Structure Data
@@ -11,10 +18,17 @@ tags:
 	- [[set-js]]
 	- [[Object+Array]]
 	- [[date-js]]
+
+--- column-break ---
+
 ## <font color="#d99694">Declarations</font>
 - [[Var]]
 - [[Let]]
 - [[const]]
+
+
+--- column-break ---
+
 ## <font color="#d99694">Functions and classes</font>
 - [[class-js]]
 - [[function-js]]
@@ -23,6 +37,15 @@ tags:
 - [[Arrow_Function]]
 - [[module.exports]]
 - [[this.-js]]
+
+
+--- end-multi-column
+--- start-multi-column: ID_mxzs
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
 ## <font color="#d99694">Flow Control</font>
 - [[return-js]]
 - [[break-js]]
@@ -33,15 +56,17 @@ tags:
 - [[throw]]
 - [[try...catch-js]]
 - ⏰ [[AsyncTopic]]
+
+
+--- column-break ---
+
 ## <font color="#d99694">Iterators</font>
 - [[while-js]]
 - [[for-js]]
 - [[labels]]
 
 
-
-
-
+--- end-multi-column
 [[npm]]
 
 https://stylexjs.com/playground/
