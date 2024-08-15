@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiDotsCircleHorizontal",
+      "TiTopologyFullHierarchy",
       "TiClock",
       "RaCycle",
-      "LiAsterisk",
-      "RaiRecycle",
-      "LiMap"
+      "LiAsterisk"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -214,10 +214,6 @@
   "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/PptxGenJS/Tables.md": "LiTable",
   "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/PptxGenJS/Text.md": "LiText",
   "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens": "TiStar",
-  "Desarrollo de Sofware/JavaScript/_Topics/UtilsTopics": "TiPoint",
-  "Desarrollo de Sofware/JavaScript/_Topics/UtilsTopics/Regex.md": "LiRegex",
-  "Desarrollo de Sofware/JavaScript/_Topics/UtilsTopics/Read Path's and Files.md": "CoPath",
-  "Desarrollo de Sofware/JavaScript/_Topics/UtilsTopics/ChartJsNodeCanvas.md": "LiGanttChartSquare",
   "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js": "LiVariable",
   "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/StructureData-js": "LiBuilding",
   "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/PrimitiveData.md": "TiOld",
@@ -237,7 +233,6 @@
   "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/this.-js.md": "LiReplace",
   "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/anonymousFunction.md": "FasMask",
   "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators": "RaCycle",
-  "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/labels.md": "FasGun",
   "Desarrollo de Sofware/JavaScript/_Topics/5-.Flow Control": "RiFlowChart",
   "Desarrollo de Sofware/JavaScript/_Topics/5-.Flow Control/break-js.md": "CoLinkBreak",
   "Desarrollo de Sofware/JavaScript/_Topics/5-.Flow Control/continue-js.md": "TiPlayerTrackNext",
@@ -245,7 +240,6 @@
   "Desarrollo de Sofware/JavaScript/_Topics/5-.Flow Control/throw.md": "TiAlertSmall",
   "Desarrollo de Sofware/JavaScript/_Topics/5-.Flow Control/return-js.md": "IbReturnUp",
   "Desarrollo de Sofware/JavaScript/_Topics/5-.Flow Control/try...catch-js.md": "RiRunLine",
-  "Desarrollo de Sofware/JavaScript/_Topics/5-.Flow Control/conditionalOperatorQuestion.md": "FasQuestion",
   "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic": "TiArrowsCross",
   "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/async_await": "RaiClockwork",
   "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()": "FasHandshake",
@@ -254,5 +248,13 @@
   "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/for-js.md": "RaiRecycle",
   "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/Generators.md": "LiAsterisk",
   "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/while-js.md": "RaCycle",
-  "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/Async iteration and generators.md": "TiClock"
+  "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/Async iteration and generators.md": "TiClock",
+  "Desarrollo de Sofware/JavaScript/_Topics/7-.Operators-js": "TiTopologyFullHierarchy",
+  "Desarrollo de Sofware/JavaScript/_Topics/7-.Operators-js/Propagation.md": "TiDotsCircleHorizontal",
+  "Desarrollo de Sofware/JavaScript/_Topics/7-.Operators-js/conditionalOperatorQuestion.md": "FasQuestion",
+  "Desarrollo de Sofware/JavaScript/_Topics/7-.Operators-js/labels.md": "FasGun",
+  "Desarrollo de Sofware/JavaScript/_Topics/U": "TiPoint",
+  "Desarrollo de Sofware/JavaScript/_Topics/U/ChartJsNodeCanvas.md": "LiGanttChartSquare",
+  "Desarrollo de Sofware/JavaScript/_Topics/U/Read Path's and Files.md": "CoPath",
+  "Desarrollo de Sofware/JavaScript/_Topics/U/Regex.md": "LiRegex"
 }
