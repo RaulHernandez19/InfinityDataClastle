@@ -94,19 +94,19 @@
       "color": "tWYXOkE4g17qnQpCqDkOC"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/Officegen/Powepoint",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/9-.Helpfull Dependens/Officegen/Powepoint",
       "color": "A4Mjo9Q8LVFOcaKR6jcoG"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/Officegen/Excel",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/9-.Helpfull Dependens/Officegen/Excel",
       "color": "v27bdrzU1TmWuYxLgVaR1"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/Officegen/Word",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/9-.Helpfull Dependens/Officegen/Word",
       "color": "v3Nc6AVc3xtV-jdHV8wPf"
     },
     {
-      "path": "Desarrollo de Sofware/JavaScript/_Topics/Helpfull Dependens/PptxGenJS/_Slides.md",
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/9-.Helpfull Dependens/PptxGenJS/_Slides.md",
       "color": "A4Mjo9Q8LVFOcaKR6jcoG"
     },
     {
@@ -139,11 +139,19 @@
     },
     {
       "path": "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/StructureData-js/array-js",
-      "color": "tWYXOkE4g17qnQpCqDkOC"
+      "color": "nvM1EDaVLPytZULjc8rgf"
     },
     {
       "path": "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/StructureData-js/Object+Array.md",
       "color": "Gfc7Z2cO9_FOan--C2d3D"
+    },
+    {
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/StructureData-js",
+      "color": "Zj5NPLsgJ7g76K7zSYrt9"
+    },
+    {
+      "path": "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/PrimitiveData",
+      "color": "v3Nc6AVc3xtV-jdHV8wPf"
     }
   ]
 }

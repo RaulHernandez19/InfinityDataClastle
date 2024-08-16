@@ -62,5 +62,8 @@ Este es un paso importante por que aqui se declarara que programa se corre prime
     "start": "node --max-old-space-size=4096 ./bin/www.js"
   },{}
  }
+ //O tambien esto que no entiendo
+"dev": "set NODE_ENV=d&& nodemon ./bin/www.js",
+"start": "set NODE_ENV=p&& nodemon ./bin/www.js"
 ```
 

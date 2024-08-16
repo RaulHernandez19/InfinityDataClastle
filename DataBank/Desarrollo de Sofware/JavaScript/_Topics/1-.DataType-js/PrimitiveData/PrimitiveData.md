@@ -5,3 +5,4 @@
 5. **BigInt**: Permite representar números enteros muy grandes.
 6. **String**: Representa una secuencia de caracteres.
 7. **Symbol**: Representa un valor único y anónimo.
+

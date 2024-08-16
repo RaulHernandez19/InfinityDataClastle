@@ -1,0 +1,101 @@
+
+const prompt = require('prompt-sync')();
+
+let cuenta=prompt(": ");
+cuenta=String(cuenta);
+
+console.time("Measuring time")
+sectionOperation(cuenta);
+console.timeEnd("Measuring time");
+
+function sectionOperation(operation) {
+    operation=operation.split(" ");
+    
+    while(operation.includes("(") || operation.includes(")")){
+        let { quantityLayers, listPosBrackets } = splitAcrossTwoElements(operation, "(", ")");
+        let diference=0;
+        for (let element of listPosBrackets) {
+            if (element[2] == quantityLayers) {
+                posInit=element[0]-diference;
+                posEnd=element[1]-diference;
+
+                console.log(element, posInit, posEnd);
+                let seccion = operation.slice(posInit + 1, posEnd);
+                let result = prossOperations(seccion);
+                operation.splice(posInit, posEnd - posInit + 1, result);
+                diference += (posEnd - posInit);
+                console.log(result);
+                console.log(`EPICO: ${operation}`);
+            }
+        }
+    }
+     console.log(prossOperations(operation))
+}
+
+function splitAcrossTwoElements(sentence, w1, w2) {
+    let list = [];
+    let startsBracket = [0, []];
+    let endsBracket = [0, []];
+    let listPosBrackets = [];
+
+    sentence.forEach((element, index) => {
+        if (element == w1) {
+            startsBracket[0]++;
+            endsBracket[0]++;
+            startsBracket[1].push(index);
+        }
+        if (element == w2) {
+            startsBracket[0]--;
+            endsBracket[0]--;
+            listPosBrackets.push([startsBracket[1].pop(), index, endsBracket[0]]);
+        }
+    });
+
+    let layersOrd = listPosBrackets.map(item => item[2])
+                                   .sort((a, b) => b - a);
+    let quantityLayers = layersOrd[0];
+    
+    return { quantityLayers, listPosBrackets };
+}
+
+function prossOperations(elementosCuenta){
+    console.log(elementosCuenta);
+    elementosCuenta.reverse()
+    
+    while(elementosCuenta.length !==1){
+        let posTemp = null;
+        let operation = null;
+        var r = null;
+        
+        if (elementosCuenta.includes("*") || elementosCuenta.includes("/")) { 
+            ({posTemp, operation} = getOperationPos(elementosCuenta,["*","/"]));
+
+        }else if (elementosCuenta.includes("+") || elementosCuenta.includes("+")) {
+            ({posTemp, operation} = getOperationPos(elementosCuenta,["+","-"]));
+        }
+            [n1,n2]= [parseFloat(elementosCuenta[posTemp-1]),parseFloat(elementosCuenta[posTemp+1])];
+            //console.log(n1,n2,operation);
+            if (operation) {
+                r=operation=="*" ? (n1*n2):
+                operation=="/" ? (n1/n2):
+                operation=="+" ? (n1+n2):
+                operation=="-" ? (n1-n2):
+                null; 
+            }
+            if(r) {
+            elementosCuenta[posTemp-1]=r;
+            elementosCuenta.splice(posTemp,posTemp+1);
+            }
+    }
+    return elementosCuenta;
+}
+
+function getOperationPos(utterance,elements){
+    let regex = new RegExp(`[${elements.join('')}]`)
+    utterance.forEach((element, index) => {
+        regex.test(element) && //se usa para ejecutar la desestructuración y asignación solo si la condición (element === "*" || element === "/") es verdadera.
+        ([posTemp, operation] = [index, element]);
+    });
+    return {posTemp, operation}
+}
+

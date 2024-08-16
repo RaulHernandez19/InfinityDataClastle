@@ -39,7 +39,6 @@ const combinedObj = { ...obj1, ...obj2 }; // { a: 1, b: 2, c: 3, d: 4 }
 
 // Copia superficial de un objeto
 const copyObj = { ...obj1 }; // { a: 1, b: 2 }
-
 ```
 
 ## Usos avanzados y variantes
