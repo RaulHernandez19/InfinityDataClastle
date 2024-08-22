@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "28459ef6d43d176b",
+        "id": "ab37db3ef18583e4",
         "type": "tabs",
         "children": [
           {
-            "id": "1faa74dc50fada64",
+            "id": "6ca2ff190d23c226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyects/Redes Sociales/YukiroRaina/Que es una muerte digna.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a39cf7b15387b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyects/Redes Sociales/YukiroRaina/31 Minutos.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyects/Redes Sociales/YukiroRaina/Que es una muerte digna.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyects/Redes Sociales/YukiroRaina/Que es una muerte digna.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyects/Redes Sociales/YukiroRaina/Que es una muerte digna.md"
+                "file": "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md"
               }
             }
           }
@@ -189,15 +176,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1faa74dc50fada64",
+  "active": "6ca2ff190d23c226",
   "lastOpenFiles": [
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/With.md",
+    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Conjuntos.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/If.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/4-.Simple statements.md",
+    "Proyects/Redes Sociales/YukiroRaina/Que es una muerte digna.md",
+    "Proyects/Redes Sociales/YukiroRaina/31 Minutos.md",
     "Proyects/Redes Sociales/YukiroRaina/Sin título.md",
     "Proyects/Redes Sociales/YukiroRaina/El Peak de hora de aventura - La trilogia perfecta.md",
     "Proyects/Redes Sociales/YukiroRaina/El punto mas bajo de Miraculous.md",
     "Proyects/Redes Sociales/YukiroRaina/El Peak de MOB.md",
-    "Proyects/Redes Sociales/YukiroRaina/Que es una muerte digna.md",
     "Desarrollo de Sofware/HTML/HTML.md",
-    "Proyects/Redes Sociales/YukiroRaina/31 Minutos.md",
     "Proyects/Redes Sociales/YukiroRaina/One Hour One Life - La importancia de la vida.md",
     "Proyects/Redes Sociales/YukiroRaina/El Peak de Miracuolos.md",
     "Proyects/History's/History's.md",
@@ -223,12 +216,6 @@
     "Desarrollo de Sofware/JavaScript/JavaScript.md",
     "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/async_await/examples/paralel example.md",
     "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/6-.AsyncTopic.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/StructureData-js/array-js/array-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/4-.Iterators/for-js.md",
-    "Desarrollo de Sofware/JavaScript/_Topics/3-.Functions and classes/Arrow_Function.md",
-    "Desarrollo de Sofware/Python/_Topics/RegEx-Python.md",
-    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/6-.Funciones incorporadas.md",
-    "Proyects/Proyects.md",
     "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/PrimitiveData",
     "Pasted image 20240812135207.png",
     "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/DiagramaPromises.png",
