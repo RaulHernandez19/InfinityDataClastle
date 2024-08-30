@@ -37,9 +37,12 @@
             "id": "fd3ec38743103248",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-23 15.58.05.excalidraw.md"
+                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -134,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-23 15.58.05.excalidraw.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-23 15.58.05.excalidraw.md",
+                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-23 15.58.05.excalidraw.md"
+                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md"
               }
             }
           }
@@ -202,16 +205,24 @@
   },
   "active": "fd3ec38743103248",
   "lastOpenFiles": [
-    "Desarrollo de Sofware/Python/Python.md",
-    "Excalidraw/Drawing 2024-08-23 15.58.05.excalidraw.md",
-    "Excalidraw",
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Tuplas y secuencias.md",
+    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Conjuntos.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
+    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Tuplas y secuencias.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Desempaquetado.md",
+    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/2-.Data_Structure.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/raise.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/assert.md",
+    "Desarrollo de Sofware/Python/Python.md",
+    "Desarrollo de Sofware/Python/Poetry.md",
+    "Desarrollo de Sofware/Python/Virtual enviroment.md",
+    "Desarrollo de Sofware/PowerBI/PowerBI.md",
+    "Desarrollo de Sofware/PowerBI/1-.ImportarDatos",
+    "Excalidraw/Drawing 2024-08-23 15.58.05.excalidraw.md",
+    "Desarrollo de Sofware/PowerBI",
+    "Excalidraw",
     "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/3-.Compound_statements.md",
     "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
     "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/With.md",
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Conjuntos.md",
     "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/If.md",
     "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/4-.Simple statements.md",
@@ -223,24 +234,16 @@
     "Proyects/Redes Sociales/YukiroRaina/El Peak de MOB.md",
     "Desarrollo de Sofware/HTML/HTML.md",
     "Proyects/Redes Sociales/YukiroRaina/One Hour One Life - La importancia de la vida.md",
-    "Proyects/Redes Sociales/YukiroRaina/El Peak de Miracuolos.md",
-    "Proyects/History's/History's.md",
-    "Desarrollo de Sofware/HTML/1-.Head/Sin título.md",
     "Desarrollo de Sofware/HTML/Body",
-    "Desarrollo de Sofware/HTML/Sin título.md",
     "Desarrollo de Sofware/HTML/1-.Head",
-    "Language/English/New words.md",
     "Desarrollo de Sofware/HTML/Documents",
     "Desarrollo de Sofware/HTML/Documents/html5-cheatsheet-lite.pdf",
-    "Excalidraw/Drawing 2024-08-19 11.59.47.excalidraw.md",
     "Pasted Image 20240819120002_412.png",
     "Pasted Image 20240819120034_457.png",
     "Pasted image 20240819115926.png",
     "Desarrollo de Sofware/HTML/img",
     "Desarrollo de Sofware/JavaScript/Ejercicios/calculadoraEjercicio 2.txt",
     "Desarrollo de Sofware/JavaScript/Ejercicios/calculadoraEjercicio 1.txt",
-    "Desarrollo de Sofware/JavaScript/Ejercicios/calculadoraEjercicio.txt",
-    "Desarrollo de Sofware/JavaScript/Ejercicios",
     "Pasted image 20240812135207.png",
     "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/DiagramaPromises.png",
     "Desarrollo de Sofware/UI_UX/Img/Pasted image 20240730115411.png",

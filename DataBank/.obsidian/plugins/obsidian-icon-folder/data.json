@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiAnalyze",
       "FasImages",
       "TiOld",
       "LiUtensilsCrossed",
-      "TiTopologyFullHierarchy",
-      "FasQuestion"
+      "TiTopologyFullHierarchy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -251,5 +251,6 @@
   "Desarrollo de Sofware/JavaScript/_Topics/7-.Operators-js": "TiTopologyFullHierarchy",
   "Desarrollo de Sofware/JavaScript/_Topics/8-.Miscellaneous": "LiUtensilsCrossed",
   "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/PrimitiveData/PrimitiveData.md": "TiOld",
-  "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/PrimitiveData": "TiOld"
+  "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/PrimitiveData": "TiOld",
+  "Desarrollo de Sofware/PowerBI": "TiAnalyze"
 }
