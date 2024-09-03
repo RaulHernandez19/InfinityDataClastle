@@ -1,6 +1,7 @@
 **Poetry** es una herramienta para la gestión de dependencias y el empaquetado en Python. Te permite declarar las bibliotecas de las que depende tu proyecto y las administrará (instalará/actualizará) por ti. Poetry también te ayuda a empaquetar tu proyecto para su distribución.
 
 ### Comandos 
+curl -sSL https://install.python-poetry.org | python3 -
 
 - `pip install poetry`: Installa el paquete necesario para usar poetry.
 

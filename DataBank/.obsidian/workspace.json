@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
+                "file": "Desarrollo de Sofware/Python/Poetry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
+                "file": "Desarrollo de Sofware/Python/Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
+                "file": "Desarrollo de Sofware/Python/Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md"
+                "file": "Desarrollo de Sofware/Python/Poetry.md"
               }
             }
           }
@@ -205,8 +205,8 @@
   },
   "active": "fd3ec38743103248",
   "lastOpenFiles": [
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Conjuntos.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
+    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Conjuntos.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Tuplas y secuencias.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Desempaquetado.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/2-.Data_Structure.md",
