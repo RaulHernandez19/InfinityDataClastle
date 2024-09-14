@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Poetry.md",
+                "file": "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Poetry.md",
+                "file": "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Poetry.md",
+                "file": "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Poetry.md"
+                "file": "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md"
               }
             }
           }
@@ -205,6 +205,12 @@
   },
   "active": "fd3ec38743103248",
   "lastOpenFiles": [
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Pandas.md",
+    "Proyects/Redes Sociales/YukiroRaina/El Peak de Miracuolos.md",
+    "Proyects/Redes Sociales/YukiroRaina/El Peak de MOB.md",
+    "Proyects/Redes Sociales/YukiroRaina/El Peak de hora de aventura - La trilogia perfecta.md",
+    "Proyects/Proyects.md",
+    "Desarrollo de Sofware/Python/Poetry.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Conjuntos.md",
     "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Tuplas y secuencias.md",
@@ -213,7 +219,6 @@
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/raise.md",
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/assert.md",
     "Desarrollo de Sofware/Python/Python.md",
-    "Desarrollo de Sofware/Python/Poetry.md",
     "Desarrollo de Sofware/Python/Virtual enviroment.md",
     "Desarrollo de Sofware/PowerBI/PowerBI.md",
     "Desarrollo de Sofware/PowerBI/1-.ImportarDatos",
@@ -229,11 +234,6 @@
     "Proyects/Redes Sociales/YukiroRaina/Que es una muerte digna.md",
     "Proyects/Redes Sociales/YukiroRaina/31 Minutos.md",
     "Proyects/Redes Sociales/YukiroRaina/Sin título.md",
-    "Proyects/Redes Sociales/YukiroRaina/El Peak de hora de aventura - La trilogia perfecta.md",
-    "Proyects/Redes Sociales/YukiroRaina/El punto mas bajo de Miraculous.md",
-    "Proyects/Redes Sociales/YukiroRaina/El Peak de MOB.md",
-    "Desarrollo de Sofware/HTML/HTML.md",
-    "Proyects/Redes Sociales/YukiroRaina/One Hour One Life - La importancia de la vida.md",
     "Desarrollo de Sofware/HTML/Body",
     "Desarrollo de Sofware/HTML/1-.Head",
     "Desarrollo de Sofware/HTML/Documents",
