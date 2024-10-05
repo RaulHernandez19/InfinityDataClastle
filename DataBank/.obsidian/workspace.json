@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
+                "file": "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
+                "file": "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
+                "file": "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md"
+                "file": "Desarrollo de Sofware/Python/Dagster/init_Dagster.md"
               }
             }
           }
@@ -205,35 +205,35 @@
   },
   "active": "fd3ec38743103248",
   "lastOpenFiles": [
-    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Pandas.md",
-    "Proyects/Redes Sociales/YukiroRaina/El Peak de Miracuolos.md",
-    "Proyects/Redes Sociales/YukiroRaina/El Peak de MOB.md",
-    "Proyects/Redes Sociales/YukiroRaina/El Peak de hora de aventura - La trilogia perfecta.md",
-    "Proyects/Proyects.md",
-    "Desarrollo de Sofware/Python/Poetry.md",
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Diccionarios.md",
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Conjuntos.md",
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Tuplas y secuencias.md",
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Desempaquetado.md",
-    "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/2-.Data_Structure.md",
+    "Desarrollo de Sofware/Python/Dagster/Install and running.md",
+    "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
+    "Desarrollo de Sofware/Python/Dagster/Dagster_Flow.excalidraw.md",
+    "Desarrollo de Sofware/Python/Dagster/Topics/Config/Config.md",
+    "Desarrollo de Sofware/Python/Dagster/Topics/Schedules/Schedules.md",
+    "Desarrollo de Sofware/Python/Dagster/Topics/Resources/Resources.md",
+    "Desarrollo de Sofware/Python/Dagster/Topics/Jobs/Jobs.md",
+    "Desarrollo de Sofware/Python/Dagster/Topics/Graph/Graph.md",
+    "Desarrollo de Sofware/Python/Dagster/Topics/Ops/Ops.md",
+    "Desarrollo de Sofware/Python/Dagster/Dagster.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/3-.Compound_statements.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/4-.Simple statements.md",
+    "Desarrollo de Sofware/Python/_Topics/Lambda.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/With.md",
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/raise.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/yield.md",
+    "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/6-.Funciones incorporadas.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/del.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/continue.md",
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/assert.md",
-    "Desarrollo de Sofware/Python/Python.md",
-    "Desarrollo de Sofware/Python/Virtual enviroment.md",
-    "Desarrollo de Sofware/PowerBI/PowerBI.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
+    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/return.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/pass.md",
+    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/break.md",
+    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
     "Desarrollo de Sofware/PowerBI/1-.ImportarDatos",
-    "Excalidraw/Drawing 2024-08-23 15.58.05.excalidraw.md",
     "Desarrollo de Sofware/PowerBI",
     "Excalidraw",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/3-.Compound_statements.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/With.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/If.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/4-.Simple statements.md",
-    "Proyects/Redes Sociales/YukiroRaina/Que es una muerte digna.md",
-    "Proyects/Redes Sociales/YukiroRaina/31 Minutos.md",
-    "Proyects/Redes Sociales/YukiroRaina/Sin título.md",
     "Desarrollo de Sofware/HTML/Body",
     "Desarrollo de Sofware/HTML/1-.Head",
     "Desarrollo de Sofware/HTML/Documents",
