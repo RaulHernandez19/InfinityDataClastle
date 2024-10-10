@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ca2ff190d23c226",
+            "id": "aca7c542f12091d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de Sofware/Python/_Topics/2-.Data_Structure/Tuplas y secuencias.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79929789d6126dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo de Sofware/Python/Python.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd3ec38743103248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
+                "file": "Desarrollo de Sofware/Python/Django/Django.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
+                "file": "Desarrollo de Sofware/Python/Django/Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
+                "file": "Desarrollo de Sofware/Python/Django/Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Dagster/init_Dagster.md"
+                "file": "Desarrollo de Sofware/Python/Django/Django.md"
               }
             }
           }
@@ -186,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,18 +176,30 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fd3ec38743103248",
+  "active": "aca7c542f12091d8",
   "lastOpenFiles": [
-    "Desarrollo de Sofware/Python/Dagster/Install and running.md",
-    "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
+    "Desarrollo de Sofware/PowerBI/PowerBI.md",
+    "Desarrollo de Sofware/Angular/Angular.md",
+    "Desarrollo de Sofware/DataBase/MongoDB/MongoDB.md",
+    "Desarrollo de Sofware/HTML/HTML.md",
+    "Desarrollo de Sofware/HTML/1-.Head/Sin título.md",
+    "Desarrollo de Sofware/HTML/Documents/html5-cheatsheet-lite.pdf",
+    "Desarrollo de Sofware/Python/Django/Django.md",
+    "Desarrollo de Sofware/Python/Django/Django_Structure.md",
+    "Desarrollo de Sofware/Python/Django/Django_funcionality.md",
+    "Desarrollo de Sofware/Python/Python.md",
+    "Desarrollo de Sofware/Python/Django/Sin título.canvas",
+    "Desarrollo de Sofware/Python/Dagster/Dagster.md",
+    "Desarrollo de Sofware/Python/Django",
     "Desarrollo de Sofware/Python/Dagster/Dagster_Flow.excalidraw.md",
+    "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
+    "Desarrollo de Sofware/Python/Dagster/Install and running.md",
     "Desarrollo de Sofware/Python/Dagster/Topics/Config/Config.md",
     "Desarrollo de Sofware/Python/Dagster/Topics/Schedules/Schedules.md",
     "Desarrollo de Sofware/Python/Dagster/Topics/Resources/Resources.md",
     "Desarrollo de Sofware/Python/Dagster/Topics/Jobs/Jobs.md",
     "Desarrollo de Sofware/Python/Dagster/Topics/Graph/Graph.md",
     "Desarrollo de Sofware/Python/Dagster/Topics/Ops/Ops.md",
-    "Desarrollo de Sofware/Python/Dagster/Dagster.md",
     "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/3-.Compound_statements.md",
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/4-.Simple statements.md",
     "Desarrollo de Sofware/Python/_Topics/Lambda.md",
@@ -222,28 +207,17 @@
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/raise.md",
     "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/yield.md",
     "Desarrollo de Sofware/Python/_Topics/6-.Funciones incorporadas/6-.Funciones incorporadas.md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/del.md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/continue.md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/assert.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/For.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/match().md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/return.md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/pass.md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/break.md",
-    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/Temas/4.Filtrado/Por Filas.md",
     "Desarrollo de Sofware/PowerBI/1-.ImportarDatos",
     "Desarrollo de Sofware/PowerBI",
     "Excalidraw",
     "Desarrollo de Sofware/HTML/Body",
     "Desarrollo de Sofware/HTML/1-.Head",
     "Desarrollo de Sofware/HTML/Documents",
-    "Desarrollo de Sofware/HTML/Documents/html5-cheatsheet-lite.pdf",
     "Pasted Image 20240819120002_412.png",
     "Pasted Image 20240819120034_457.png",
     "Pasted image 20240819115926.png",
     "Desarrollo de Sofware/HTML/img",
     "Desarrollo de Sofware/JavaScript/Ejercicios/calculadoraEjercicio 2.txt",
-    "Desarrollo de Sofware/JavaScript/Ejercicios/calculadoraEjercicio 1.txt",
     "Pasted image 20240812135207.png",
     "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/DiagramaPromises.png",
     "Desarrollo de Sofware/UI_UX/Img/Pasted image 20240730115411.png",
