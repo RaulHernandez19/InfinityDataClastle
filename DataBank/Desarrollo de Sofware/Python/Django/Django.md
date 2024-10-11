@@ -27,3 +27,15 @@ python manage.py runserver #Run the server in localhost
 python manage.py startapp nombre_de_la_app #Make app
 
 ```
+
+
+## Folder Structure in a Project
+
+#### <font color="#8db3e2">asgi.py</font>
+> Se utiliza para configurar aplicaciones asíncronas.
+#### <font color="#8db3e2">wsgi.py</font>
+> Se utiliza para configurar aplicaciones sincronas.
+
+#### <font color="#8db3e2">wsgi.py</font>
+> Se utiliza para configurar aplicaciones sincronas.
+

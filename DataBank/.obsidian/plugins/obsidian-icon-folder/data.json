@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✏",
       "🏜",
       "TiAnalyze",
       "FasImages",
-      "TiOld",
-      "LiUtensilsCrossed"
+      "TiOld"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -253,5 +253,6 @@
   "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/PrimitiveData/PrimitiveData.md": "TiOld",
   "Desarrollo de Sofware/JavaScript/_Topics/1-.DataType-js/PrimitiveData": "TiOld",
   "Desarrollo de Sofware/PowerBI": "TiAnalyze",
-  "Desarrollo de Sofware/Python/Django": "🏜"
+  "Desarrollo de Sofware/Python/Django": "🏜",
+  "Desarrollo de Sofware/Python/Django/Draws": "✏"
 }
