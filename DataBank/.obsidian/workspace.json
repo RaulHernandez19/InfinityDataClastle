@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Django/Django.md",
+                "file": "Proyects/History's/La Sociedad de la Mascara/Errums/Gusunado Presa - Errum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Django/Django.md",
+                "file": "Proyects/History's/La Sociedad de la Mascara/Errums/Gusunado Presa - Errum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Django/Django.md",
+                "file": "Proyects/History's/La Sociedad de la Mascara/Errums/Gusunado Presa - Errum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de Sofware/Python/Django/Django.md"
+                "file": "Proyects/History's/La Sociedad de la Mascara/Errums/Gusunado Presa - Errum.md"
               }
             }
           }
@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,37 +178,41 @@
   },
   "active": "aca7c542f12091d8",
   "lastOpenFiles": [
+    "Proyects/History's/History's.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Gusunado Presa - Errum.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/GatoSonriente - Errum815.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Explora Suenios.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Moscas.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Programa infantil -.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/AplicacionDelSuenio-Errum 2k700.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Errum 2k52.md",
+    "Proyects/History's/La Sociedad de la Mascara/Errums/Errums.md",
+    "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/HistoryBoard.excalidraw.md",
+    "Pasted Image 20241015105529_516.png",
+    "Pasted Image 20241015105457_517.png",
+    "Proyects/History's/El Gato Rodrigo/Chapters/1.El show debe continuar/1.El show debe continuar.md",
+    "Proyects/Proyects.md",
+    "Proyects/Redes Sociales/Redes Sociales.md",
+    "Desarrollo de Sofware/Python/Python.md",
+    "Desarrollo de Sofware/Python/Django/Django.md",
+    "Desarrollo de Sofware/Python/Dagster/Dagster.md",
+    "Desarrollo de Sofware/PowerBI/DAX/DAX.md",
+    "Desarrollo de Sofware/PowerBI/PowerBI.md",
+    "Desarrollo de Sofware/PowerBI/DAX",
+    "Desarrollo de Sofware/PowerBI/Sin título.canvas",
     "Style Comands.md",
     "Excalidraw/Drawing 2024-08-23 15.58.05.excalidraw.md",
     "Desarrollo de Sofware/UI_UX/UI_UX.md",
     "Desarrollo de Sofware/UI_UX/Img/Pasted image 20240730115411.png",
-    "Desarrollo de Sofware/Python/Django/Django.md",
     "Desarrollo de Sofware/Python/Django/Draws",
     "Desarrollo de Sofware/Python/Virtual enviroment.md",
     "Desarrollo de Sofware/Python/Poetry.md",
-    "Desarrollo de Sofware/PowerBI/PowerBI.md",
     "Desarrollo de Sofware/Angular/Angular.md",
     "Desarrollo de Sofware/DataBase/MongoDB/MongoDB.md",
     "Desarrollo de Sofware/HTML/HTML.md",
-    "Desarrollo de Sofware/HTML/1-.Head/Sin título.md",
     "Desarrollo de Sofware/HTML/Documents/html5-cheatsheet-lite.pdf",
-    "Desarrollo de Sofware/Python/Django/Draws/Django_Structure.md",
-    "Desarrollo de Sofware/Python/Django/Draws/Django_funcionality.md",
-    "Desarrollo de Sofware/Python/Python.md",
     "Desarrollo de Sofware/Python/Django/Sin título.canvas",
-    "Desarrollo de Sofware/Python/Dagster/Dagster.md",
     "Desarrollo de Sofware/Python/Django",
-    "Desarrollo de Sofware/Python/Dagster/Dagster_Flow.excalidraw.md",
-    "Desarrollo de Sofware/Python/Dagster/init_Dagster.md",
-    "Desarrollo de Sofware/Python/Dagster/Install and running.md",
-    "Desarrollo de Sofware/Python/Dagster/Topics/Config/Config.md",
-    "Desarrollo de Sofware/Python/Dagster/Topics/Schedules/Schedules.md",
-    "Desarrollo de Sofware/Python/Dagster/Topics/Resources/Resources.md",
-    "Desarrollo de Sofware/Python/Dagster/Topics/Jobs/Jobs.md",
-    "Desarrollo de Sofware/Python/Dagster/Topics/Graph/Graph.md",
-    "Desarrollo de Sofware/Python/Dagster/Topics/Ops/Ops.md",
-    "Desarrollo de Sofware/Python/_Topics/3-.Compound_statements/3-.Compound_statements.md",
-    "Desarrollo de Sofware/Python/_Topics/4-.Simple statements/4-.Simple statements.md",
     "Desarrollo de Sofware/PowerBI/1-.ImportarDatos",
     "Desarrollo de Sofware/PowerBI",
     "Excalidraw",
@@ -218,15 +222,12 @@
     "Pasted Image 20240819120002_412.png",
     "Pasted Image 20240819120034_457.png",
     "Pasted image 20240819115926.png",
-    "Desarrollo de Sofware/HTML/img",
     "Pasted image 20240812135207.png",
     "Desarrollo de Sofware/JavaScript/_Topics/6-.AsyncTopic/promise()/DiagramaPromises.png",
     "Pasted image 20240730135743.png",
     "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Pasted Image 20240717163646_419.png",
     "Proyects/History's/El Gato Rodrigo/Characters/1.RelacionEntrePerosanjes.canvas",
     "Programacion/Python/Dagster/Flujo_Dagster.canvas",
-    "Desarrollo de Sofware/Angular/img/Pasted image 20240703110504.png",
-    "Desarrollo de Sofware/Python/Analisis de datos/Pandas/img/Untitled (26).png",
     "Sin título.canvas",
     "TypeScript/Sin título.canvas",
     "epico/Sin título.canvas",

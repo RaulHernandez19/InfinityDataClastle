@@ -1,0 +1,6 @@
+Dicen que las mascotas son el reflejo del dueño, en mi caso y el de mi chihuahua Puca de 3 años es una realidad, desde niña he sido una persona muy enfermisa, siempre traia mi nariz tapada, a cada rato me daba fiebre o congestion, y minimo cada mes pescaba una infecion leve. ==Al igual que== mi chihuahua que no se quedaba atras, siendo practicamente mi reflejo en ese aspecto, enfermandose minimo 2 veces por mes, vomitando a cada rato, y teniendo ataques de nervios si ocurre algo que la estrese un poco. 
+
+Es importante mencionar que a pesar de que me enfermaba seguido, casi nunca era algo grave por lo que tuvieramos que preocuparnos o tuvieramos que ir al doctor, solo una ligera molestia que aveces aprovechaba para faltar a la escuela, por el contrario de mi mascota, por el contrario a mi perrita, que la ha pasado muy mal toda su vida, practicamente pequedesde que nacio tuvo complicaciones que tuvimos que atender
+
+Ella se enferma minimo dos veces o mas por mes, sin embargo, a pesar de que me enfermaba seguido, casi nunca era algo grave por lo que tuvieramos que preocuparnos o tuvieramos que ir al doctor, solo una ligera molestia que aveces aprovechaba para faltar a la escuela, por el contrario de mi mascota, que Desde que nos la regalaron cuando era una cachorra tuvo complicaciones, por el contrario a mi, que 
+
